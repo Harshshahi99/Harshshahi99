@@ -427,40 +427,63 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 # `10 // CERTIFICATIONS`
 
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,45:10051A,75:071A12,100:050505&text=CERTIFICATIONS&fontColor=00FF88&fontSize=38&fontAlignY=42&desc=OFFENSIVE%20SECURITY%20%2F%20CLOUD%20%2F%20AI%20SECURITY&descAlignY=65&descSize=14&descColor=8A2BE2&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,40:071A2B,70:10105C,100:050505&text=CERTIFICATIONS&fontColor=00E5FF&fontSize=40&fontAlignY=42&desc=RED%20TEAMING%20%2F%20CLOUD%20%2F%20AI%20SECURITY&descAlignY=65&descSize=14&descColor=7C4DFF&animation=twinkling" width="100%"/>
 
 <br>
 
-🛡️ **CRTO — Certified Red Team Operator** <img src="https://img.shields.io/badge/CRTO-CERTIFIED-00FF88?style=for-the-badge&labelColor=050505&color=050505"/>
+### 🛡️ `RED TEAMING`
 
-🎯 **CRTA — Certified Red Team Analyst** <img src="https://img.shields.io/badge/CRTA-CERTIFIED-8A2BE2?style=for-the-badge&labelColor=050505&color=050505"/>
+**🟥 CRTO — Certified Red Team Operator** <img src="https://img.shields.io/badge/CRTO-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
 
-🛡️ **CEH Practical — Certified Ethical Hacker** <img src="https://img.shields.io/badge/CEH_PRACTICAL-CERTIFIED-FF4040?style=for-the-badge&labelColor=050505&color=050505"/>
+    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
 
-☁️ **MCRTA — Multi-Cloud Red Team Analyst** <img src="https://img.shields.io/badge/MCRTA-CERTIFIED-00FF88?style=for-the-badge&labelColor=050505&color=050505"/>
+**🟪 CRTA — Certified Red Team Analyst** <img src="https://img.shields.io/badge/CRTA-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
 
-☁️ **Google Cloud Digital Leader** <img src="https://img.shields.io/badge/GCP_DIGITAL_LEADER-CERTIFIED-8A2BE2?style=for-the-badge&labelColor=050505&color=050505"/>
+    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
 
-🧠 **CLLMSP — Certified LLM Security Professional** <img src="https://img.shields.io/badge/CLLMSP-CERTIFIED-FF4040?style=for-the-badge&labelColor=050505&color=050505"/>
+**⚔️ CEH Practical — Certified Ethical Hacker** <img src="https://img.shields.io/badge/CEH_PRACTICAL-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
 
-<br><br>
+<br>
+
+### ☁️ `CLOUD SECURITY`
+
+**☁️ MCRTA — Multi-Cloud Red Team Analyst** <img src="https://img.shields.io/badge/MCRTA-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
+
+**🌐 Google Cloud Digital Leader** <img src="https://img.shields.io/badge/GCP_DIGITAL_LEADER-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br>
+
+### 🧠 `AI / LLM SECURITY`
+
+**🧠 CLLMSP — Certified LLM Security Professional** <img src="https://img.shields.io/badge/CLLMSP-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   RED TEAMING     CLOUD SECURITY     AI / LLM SECURITY       │
-│       ▲                 ▲                    ▲               │
-│       │                 │                    │               │
-│      CRTO              MCRTA              CLLMSP              │
-│      CRTA              GCP-DL              │                 │
-│      CEH                                  AI SECURITY        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+       ┌─────────────────────────────────────────┐
+       │                                         │
+       │   🛡️  OFFENSIVE SECURITY                │
+       │          │                              │
+       │          ▼                              │
+       │   ☁️  CLOUD SECURITY                    │
+       │          │                              │
+       │          ▼                              │
+       │   🧠  AI / LLM SECURITY                 │
+       │                                         │
+       │   ───────────────────────────────────   │
+       │        CONTINUOUS LEARNING →            │
+       │        CONTINUOUSLY BREAKING →          │
+       │        CONTINUOUSLY HARDENING           │
+       │                                         │
+       └─────────────────────────────────────────┘
 ```
 
 </div>
+
 
 
 ---
