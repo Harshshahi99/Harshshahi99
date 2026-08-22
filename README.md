@@ -804,17 +804,17 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <br><br>
 
-**OFFENSIVE SECURITY** · **SECURITY RESEARCH** · **COLLABORATION** · **IMPACT**
+<div align="center">
 
-</div>
+<strong>OFFENSIVE SECURITY</strong> · <strong>SECURITY RESEARCH</strong> · <strong>COLLABORATION</strong> · <strong>IMPACT</strong>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=harshshahi99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
-```
+<br><br>
 
-`root@harsh:~$ exit`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=900&color=00FF88&background=050505&center=true&vCenter=true&width=600&lines=%5B+root%40harsh+%5D%24+exit;%5B%2B%5D+Session+closed.;%5B%2B%5D+Security+research+continues...;%5B%2B%5D+See+you+on+the+other+side." />
 
 </div>
 
