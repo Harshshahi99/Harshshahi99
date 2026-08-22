@@ -227,7 +227,7 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <img src="https://img.shields.io/badge/Naabu-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
 
 
-### `WEB / API / TRAFFIC`
+### `WEB / API `
 
 <img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 <img src="https://img.shields.io/badge/Caido-050505?style=for-the-badge&logoColor=00FF88"/>
@@ -469,7 +469,7 @@ Offensive security assessments across **Web, Mobile, API, Cloud, Access Control,
 
 **Aug 2023 – Jun 2025**
 
-Application and infrastructure security assessments covering **Web/API Pentesting, OWASP, ASVS, CERT-In, vulnerability management, remediation, retesting, and security backlog reduction**.
+Application and infrastructure security assessments covering **Web/API Pentesting, OWASP, ASVS, vulnerability management, remediation, retesting, and security backlog reduction**.
 
 > `APPLICATION SECURITY → OFFENSIVE SECURITY → RED TEAMING → AI-ASSISTED SECURITY`
 
@@ -495,7 +495,9 @@ Application and infrastructure security assessments covering **Web/API Pentestin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshshahi99&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+</div>
 
 <br><br>
 
