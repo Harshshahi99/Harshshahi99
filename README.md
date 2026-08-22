@@ -393,218 +393,35 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 # `09 // RESPONSIBLE DISCLOSURE`
 
-For a GitHub README, **Markdown/HTML cannot create true animated transitions between phases** reliably. But you can make it look much more dynamic with a **phase-by-phase neon terminal progression**, animated GIF-style illusion, and connecting arrows.
-
-# `09 // RESPONSIBLE DISCLOSURE`
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050505,45:10051A,75:071A12,100:050505&text=RESPONSIBLE%20DISCLOSURE&fontColor=00FF88&fontSize=38&fontAlignY=42&desc=RESEARCH%20%2F%20VALIDATE%20%2F%20DISCLOSE%20%2F%20REMEDIATE&descAlignY=65&descSize=14&descColor=8A2BE2&animation=twinkling" width="100%"/>
+
 ```text
-╔══════════════════════════════════════════════════════════════════════════╗
-║                     ⚡ RESPONSIBLE DISCLOSURE ⚡                         ║
-║                  SECURITY RESEARCH → REAL-WORLD IMPACT                  ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-
-        ╭───────────────╮
-        │  01  🌐       │
-        │   TARGET      │
-        │               │
-        │ Internet      │
-        │ Facing Assets │
-        ╰───────┬───────╯
-                │
-                │  ────────────────▶
-                ▼
-
-        ╭───────────────╮
-        │  02  🔎       │
-        │    RECON      │
-        │               │
-        │ Attack Surface│
-        │ Discovery     │
-        ╰───────┬───────╯
-                │
-                │  ────────────────▶
-                ▼
-
-        ╭───────────────╮
-        │  03  ⚡       │
-        │   VALIDATE    │
-        │               │
-        │ Vulnerability │
-        │ + PoC + Impact│
-        ╰───────┬───────╯
-                │
-                │  ────────────────▶
-                ▼
-
-        ╭───────────────╮
-        │  04  🛡️       │
-        │   DISCLOSE    │
-        │               │
-        │ Responsible   │
-        │ Security Report│
-        ╰───────┬───────╯
-                │
-                │  ────────────────▶
-                ▼
-
-        ╭───────────────╮
-        │  05  🔧       │
-        │  REMEDIATE    │
-        │               │
-        │ Fix • Harden  │
-        │ • Mitigate    │
-        ╰───────┬───────╯
-                │
-                │  ────────────────▶
-                ▼
-
-        ╭───────────────╮
-        │  06  ✅       │
-        │    RETEST     │
-        │               │
-        │ Verify Fix    │
-        │ Close Finding │
-        ╰───────────────╯
-
-
-╭──────────────────────────────────────────────────────────────────────────╮
-│                                                                          │
-│   🌐  ──▶  🔎  ──▶  ⚡  ──▶  🛡️  ──▶  🔧  ──▶  ✅                     │
-│                                                                          │
-│ TARGET     RECON     VALIDATE    DISCLOSE    REMEDIATE     RETEST       │
-│                                                                          │
-╰──────────────────────────────────────────────────────────────────────────╯
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+│  🌐 DISCOVER │ ─▶ │  ⚡ VALIDATE │ ─▶ │ 🛡 DISCLOSE  │
+└──────────────┘    └──────────────┘    └──────────────┘
+                                             │
+                                             ▼
+┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+│  ✅ RETEST   │ ◀─ │  🔧 REMEDIATE│ ◀─ │  📋 REPORT   │
+└──────────────┘    └──────────────┘    └──────────────┘
 ```
+
+### `INTERNET-FACING SECURITY RESEARCH`
+
+Independently researching **internet-facing applications, APIs, cloud services and digital platforms** to identify security vulnerabilities and attack paths.
+
+**Discover → Validate → Responsible Disclosure → Remediation → Retest**
+
+> `FIND THE BUG.` `PROVE THE IMPACT.` `HELP FIX THE SYSTEM.`
 
 <br>
 
-### `01 // TARGET`
-
-```text
-[ INTERNET ]
-     │
-     ├── Applications
-     ├── APIs
-     ├── Cloud Services
-     └── Digital Platforms
-             │
-             ▼
-        [ ATTACK SURFACE ]
-```
-
-`DISCOVER → MAP → ENUMERATE`
-
----
-
-### `02 // RECON`
-
-```text
-████████████░░░░░░░░  60%
-
-SUBDOMAINS → ENDPOINTS → TECHNOLOGIES → EXPOSURE
-```
-
-`OSINT` `SUBDOMAIN ENUMERATION` `API DISCOVERY` `TECHNOLOGY FINGERPRINTING`
-
----
-
-### `03 // VALIDATE`
-
-```text
-┌───────────────────────────────────────┐
-│  VULNERABILITY DETECTED               │
-│                                       │
-│  [ TEST ] → [ PoC ] → [ IMPACT ]     │
-│                                       │
-│  STATUS: ████████████████████ 100%   │
-└───────────────────────────────────────┘
-```
-
-`IDENTIFY → EXPLOIT → PROVE → ASSESS IMPACT`
-
----
-
-### `04 // RESPONSIBLE DISCLOSURE`
-
-```text
-          ┌───────────────┐
-          │ SECURITY BUG  │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │ TECHNICAL PoC │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │ IMPACT REPORT │
-          └───────┬───────┘
-                  │
-                  ▼
-          ┌───────────────┐
-          │   DISCLOSED   │
-          └───────────────┘
-```
-
-`REPORT → COMMUNICATE → COLLABORATE`
-
----
-
-### `05 // REMEDIATION`
-
-```text
-BEFORE                         AFTER
-
-[ VULNERABLE ]  ───────────▶  [ HARDENED ]
-      │                             │
-      ├── Exposure                  ├── Fixed
-      ├── Weak Control              ├── Validated
-      └── Attack Path               └── Protected
-```
-
-`FIX → HARDEN → MITIGATE`
-
----
-
-### `06 // RETEST`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   ORIGINAL PoC                              │
-│        │                                     │
-│        ▼                                     │
-│   REPRODUCE ATTACK                           │
-│        │                                     │
-│        ▼                                     │
-│   VERIFY REMEDIATION                         │
-│        │                                     │
-│        ▼                                     │
-│   ████████████████████████████  FIXED        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-`RETEST → VERIFY → CLOSE`
-
----
-
-<div align="center">
-
-### `FIND IT  →  PROVE IT  →  DISCLOSE IT  →  FIX IT  →  VERIFY IT`
-
-**Responsible research. Ethical disclosure. Measurable security impact.**
+`WEB` · `API` · `GRAPHQL` · `ACCESS CONTROL` · `CLOUD` · `AUTHENTICATION` · `DATA EXPOSURE` · `BUSINESS LOGIC`
 
 </div>
-
-</div>
-
-
-Research experience includes responsible disclosure involving **automobile platforms, healthcare applications and EV charging infrastructure**, focusing on unauthorized access, privacy exposure and command-execution risks.
 
 ---
 
