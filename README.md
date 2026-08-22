@@ -26,19 +26,14 @@
 <div align="center">
 
 </div>
-
 <div align="center">
-
-<div align="left">
-<img src="https://img.shields.io/badge/RECON-████████████████-00FF88?style=flat-square&labelColor=050505"/>
-<br>
-<img src="https://img.shields.io/badge/ENUMERATION-████████████████-00FF88?style=flat-square&labelColor=050505"/>
-<br>
-<img src="https://img.shields.io/badge/ATTACK_PATH-████████████████-00FF88?style=flat-square&labelColor=050505"/>
-<br>
-<img src="https://img.shields.io/badge/VALIDATION-████████████████-00FF88?style=flat-square&labelColor=050505"/>
-<br>
-<img src="https://img.shields.io/badge/AUTOMATION-████████████████-00FF88?style=flat-square&labelColor=050505"/>
+<pre align="left">
+[01] RECON          <span style="color:#00FF88;">████████████████</span>  ONLINE
+[02] ENUMERATION    <span style="color:#00FF88;">████████████████</span>  ONLINE
+[03] ATTACK PATH    <span style="color:#00FF88;">████████████████</span>  ACTIVE
+[04] VALIDATION     <span style="color:#00FF88;">████████████████</span>  ACTIVE
+[05] AUTOMATION     <span style="color:#00FF88;">████████████████</span>  AI × MCP
+</pre>
 </div>
 ───────────────────────────────────────────
 
