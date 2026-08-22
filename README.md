@@ -193,30 +193,116 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 <img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 <img src="https://img.shields.io/badge/Caido-050505?style=for-the-badge&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-050505?style=for-the-badge&logo=owasp&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SQLmap-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Commix-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Ghauri-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Dalfox-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/XSStrike-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/NoSQLMap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Arjun-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Kiterunner-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Autorize-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/HTTP_Request_Smuggler-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/ActiveScan++-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/JWT_Tool-050505?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/GraphQL-050505?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/GraphQLmap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Swagger-050505?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
+<img src="https://img.shields.io/badge/Insomnia-050505?style=for-the-badge&logo=insomnia&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Mitmproxy-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Interactsh-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SSRFmap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SSTImap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/XXEinjector-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/CRLFuzz-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/ParamSpider-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Waybackurls-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+
 
 ### `EXPLOITATION / AD / RED TEAM`
 
+### 🏴 Red Teaming & Active Directory
+
 <img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logo=metasploit&logoColor=FF4040"/>
-<img src="https://img.shields.io/badge/PowerView-050505?style=for-the-badge&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/WinPEAS-050505?style=for-the-badge&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/LinPEAS-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/PowerShell-050505?style=for-the-badge&logo=powershell&logoColor=5391FE"/>
+<img src="https://img.shields.io/badge/PowerView-050505?style=for-the-badge&logo=powershell&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/BloodHound-050505?style=for-the-badge&logo=neo4j&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/SharpHound-050505?style=for-the-badge&logo=neo4j&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Impacket-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/NetExec-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/CrackMapExec-050505?style=for-the-badge&logo=python&logoColor=FF4040"/>
 <img src="https://img.shields.io/badge/Responder-050505?style=for-the-badge&logoColor=FF4040"/>
-<img src="https://img.shields.io/badge/BloodHound-050505?style=for-the-badge&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/C2_Server-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Mimikatz-050505?style=for-the-badge&logo=windows&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Rubeus-050505?style=for-the-badge&logo=windows&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Certipy-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Evil_WinRM-050505?style=for-the-badge&logo=windows&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/WinPEAS-050505?style=for-the-badge&logo=windows&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LinPEAS-050505?style=for-the-badge&logo=linux&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Chisel-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Sliver-050505?style=for-the-badge&logo=go&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Cobalt_Strike-050505?style=for-the-badge&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Mythic_C2-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LDAP-050505?style=for-the-badge&logo=windows&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Kerberos-050505?style=for-the-badge&logo=windows&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/ADCS-050505?style=for-the-badge&logo=windows&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/NTLM-050505?style=for-the-badge&logo=windows&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SMB-050505?style=for-the-badge&logo=windows&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/WinRM-050505?style=for-the-badge&logo=windows&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/DCSync-050505?style=for-the-badge&logo=windows&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Domain_Trusts-050505?style=for-the-badge&logo=windows&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Privilege_Escalation-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Lateral_Movement-050505?style=for-the-badge&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Persistence-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/C2_Operations-050505?style=for-the-badge&logoColor=FF4040"/>
+
 
 ### `MOBILE / DEVICE`
+
+### 📱 Mobile Application Security
 
 <img src="https://img.shields.io/badge/Frida-050505?style=for-the-badge&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Objection-050505?style=for-the-badge&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/MobSF-050505?style=for-the-badge&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/ADB-050505?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Android_Studio-050505?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Xcode-050505?style=for-the-badge&logo=xcode&logoColor=147EFB"/>
+<img src="https://img.shields.io/badge/iOS-050505?style=for-the-badge&logo=apple&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Android-050505?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Genymotion-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Apktool-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/JADX-050505?style=for-the-badge&logo=java&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/Apkleaks-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SSL_Kill_Switch-050505?style=for-the-badge&logo=apple&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LLDB-050505?style=for-the-badge&logo=apple&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Keychain_Analysis-050505?style=for-the-badge&logo=apple&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/IPA_Analysis-050505?style=for-the-badge&logo=apple&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/APK_Analysis-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
 
-### `CLOUD / SECURITY ASSESSMENT`
+
+### `☁️ Cloud Security & Compliance`
+
 
 <img src="https://img.shields.io/badge/Prowler-050505?style=for-the-badge&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/CIS--CAT-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/ScoutSuite-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Azure-050505?style=for-the-badge&logo=microsoftazure&logoColor=0089D6"/>
+<img src="https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GCP-050505?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-050505?style=for-the-badge&logo=microsoftdefender&logoColor=00A4EF"/>
+<img src="https://img.shields.io/badge/Azure_AD-050505?style=for-the-badge&logo=microsoftazure&logoColor=0089D6"/>
+<img src="https://img.shields.io/badge/Kubernetes-050505?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Terraform-050505?style=for-the-badge&logo=terraform&logoColor=7B42BC"/>
+<img src="https://img.shields.io/badge/Trivy-050505?style=for-the-badge&logo=aqua&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Checkov-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/CloudSploit-050505?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure_CLI-050505?style=for-the-badge&logo=microsoftazure&logoColor=0089D6"/>
+<img src="https://img.shields.io/badge/AWS_CLI-050505?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 
 </div>
 
@@ -262,24 +348,9 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 **Apr 2026 – Present**
 
-- Led end-to-end manual penetration testing across **Web Applications, Mobile Applications, APIs, Cloud Environments, Access Control Systems, CCTV Systems, Thick Clients and LLM-based Applications**.
-- Led an **on-site security assessment for a petroleum client in the GCC region**, covering web, infrastructure, mobile, thick-client systems and fuel-dispensing devices.
-- Performed production-environment penetration testing with **zero downtime**, identifying and reporting multiple critical vulnerabilities across hardware devices and applications.
-- Performed **Black Box, Grey Box and White Box** assessments aligned with **OWASP Top 10, OWASP ASVS and CERT-In** guidelines.
-- Conducted cloud configuration security assessments across **IAM, networking, storage, WAF and identity exposure**, identifying misconfigurations, privilege-escalation risks and exploitable attack paths.
-- Contributed to red-team operations through **phishing and vishing simulations**.
-- Designed CTF machines and pre-assessment challenges for security capability evaluation.
-- Built automated frameworks to identify and simulate **OT attack surfaces** in a controlled cyber-lab environment supporting AI-driven threat simulation.
-- Conducted **network segmentation penetration testing**, validating VLAN isolation and CDE access boundaries.
-
 ### `DELOITTE // SENIOR SECURITY ANALYST — ASM`
 
 **Aug 2023 – Jun 2025**
-
-- Conducted **Web, API and Infrastructure** penetration testing aligned with OWASP Top 10, OWASP ASVS and CERT-In guidelines.
-- Collaborated with the FLCM team to remediate long-standing vulnerability backlog and achieved **95% backlog reduction**.
-- Worked with application owners and developers to drive remediation and validate fixes through re-testing.
-- Conducted mobile application security training sessions with the Learning & Development team.
 
 ---
 
@@ -287,11 +358,12 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/100%2B-APPLICATION_%26_INFRA_ASSESSMENTS-00FF88?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/20%2B-CRITICAL_%26_HIGH_RISK_FINDINGS-FF4040?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/95%25-BACKLOG_REDUCTION-8A2BE2?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/100%25-PRE--RELEASE_RESOLUTION-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/200%2B-OFFENSIVE_SECURITY_ASSESSMENTS-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/50%2B-HIGH_IMPACT_VULNERABILITIES-FF4040?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/95%25-VULNERABILITY_BACKLOG_CLOSED-8A2BE2?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/20%2B-CLOUD_%26_INFRA_TARGETS-00FF88?style=for-the-badge&labelColor=050505"/>
 <img src="https://img.shields.io/badge/0-DOWNTIME_PRODUCTION_TESTING-FF4040?style=for-the-badge&labelColor=050505"/>
+
 
 </div>
 
@@ -321,25 +393,216 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 # `09 // RESPONSIBLE DISCLOSURE`
 
+For a GitHub README, **Markdown/HTML cannot create true animated transitions between phases** reliably. But you can make it look much more dynamic with a **phase-by-phase neon terminal progression**, animated GIF-style illusion, and connecting arrows.
+
+# `09 // RESPONSIBLE DISCLOSURE`
+
 <div align="center">
 
 ```text
-INTERNET-FACING RESEARCH
-          │
-          ▼
-   DISCOVER / VALIDATE
-          │
-          ▼
- RESPONSIBLE DISCLOSURE
-          │
-          ▼
-    REMEDIATION
-          │
-          ▼
-      RETEST / FIX
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     ⚡ RESPONSIBLE DISCLOSURE ⚡                         ║
+║                  SECURITY RESEARCH → REAL-WORLD IMPACT                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
+        ╭───────────────╮
+        │  01  🌐       │
+        │   TARGET      │
+        │               │
+        │ Internet      │
+        │ Facing Assets │
+        ╰───────┬───────╯
+                │
+                │  ────────────────▶
+                ▼
+
+        ╭───────────────╮
+        │  02  🔎       │
+        │    RECON      │
+        │               │
+        │ Attack Surface│
+        │ Discovery     │
+        ╰───────┬───────╯
+                │
+                │  ────────────────▶
+                ▼
+
+        ╭───────────────╮
+        │  03  ⚡       │
+        │   VALIDATE    │
+        │               │
+        │ Vulnerability │
+        │ + PoC + Impact│
+        ╰───────┬───────╯
+                │
+                │  ────────────────▶
+                ▼
+
+        ╭───────────────╮
+        │  04  🛡️       │
+        │   DISCLOSE    │
+        │               │
+        │ Responsible   │
+        │ Security Report│
+        ╰───────┬───────╯
+                │
+                │  ────────────────▶
+                ▼
+
+        ╭───────────────╮
+        │  05  🔧       │
+        │  REMEDIATE    │
+        │               │
+        │ Fix • Harden  │
+        │ • Mitigate    │
+        ╰───────┬───────╯
+                │
+                │  ────────────────▶
+                ▼
+
+        ╭───────────────╮
+        │  06  ✅       │
+        │    RETEST     │
+        │               │
+        │ Verify Fix    │
+        │ Close Finding │
+        ╰───────────────╯
+
+
+╭──────────────────────────────────────────────────────────────────────────╮
+│                                                                          │
+│   🌐  ──▶  🔎  ──▶  ⚡  ──▶  🛡️  ──▶  🔧  ──▶  ✅                     │
+│                                                                          │
+│ TARGET     RECON     VALIDATE    DISCLOSE    REMEDIATE     RETEST       │
+│                                                                          │
+╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
+<br>
+
+### `01 // TARGET`
+
+```text
+[ INTERNET ]
+     │
+     ├── Applications
+     ├── APIs
+     ├── Cloud Services
+     └── Digital Platforms
+             │
+             ▼
+        [ ATTACK SURFACE ]
+```
+
+`DISCOVER → MAP → ENUMERATE`
+
+---
+
+### `02 // RECON`
+
+```text
+████████████░░░░░░░░  60%
+
+SUBDOMAINS → ENDPOINTS → TECHNOLOGIES → EXPOSURE
+```
+
+`OSINT` `SUBDOMAIN ENUMERATION` `API DISCOVERY` `TECHNOLOGY FINGERPRINTING`
+
+---
+
+### `03 // VALIDATE`
+
+```text
+┌───────────────────────────────────────┐
+│  VULNERABILITY DETECTED               │
+│                                       │
+│  [ TEST ] → [ PoC ] → [ IMPACT ]     │
+│                                       │
+│  STATUS: ████████████████████ 100%   │
+└───────────────────────────────────────┘
+```
+
+`IDENTIFY → EXPLOIT → PROVE → ASSESS IMPACT`
+
+---
+
+### `04 // RESPONSIBLE DISCLOSURE`
+
+```text
+          ┌───────────────┐
+          │ SECURITY BUG  │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │ TECHNICAL PoC │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │ IMPACT REPORT │
+          └───────┬───────┘
+                  │
+                  ▼
+          ┌───────────────┐
+          │   DISCLOSED   │
+          └───────────────┘
+```
+
+`REPORT → COMMUNICATE → COLLABORATE`
+
+---
+
+### `05 // REMEDIATION`
+
+```text
+BEFORE                         AFTER
+
+[ VULNERABLE ]  ───────────▶  [ HARDENED ]
+      │                             │
+      ├── Exposure                  ├── Fixed
+      ├── Weak Control              ├── Validated
+      └── Attack Path               └── Protected
+```
+
+`FIX → HARDEN → MITIGATE`
+
+---
+
+### `06 // RETEST`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   ORIGINAL PoC                              │
+│        │                                     │
+│        ▼                                     │
+│   REPRODUCE ATTACK                           │
+│        │                                     │
+│        ▼                                     │
+│   VERIFY REMEDIATION                         │
+│        │                                     │
+│        ▼                                     │
+│   ████████████████████████████  FIXED        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+`RETEST → VERIFY → CLOSE`
+
+---
+
+<div align="center">
+
+### `FIND IT  →  PROVE IT  →  DISCLOSE IT  →  FIX IT  →  VERIFY IT`
+
+**Responsible research. Ethical disclosure. Measurable security impact.**
+
 </div>
+
+</div>
+
 
 Research experience includes responsible disclosure involving **automobile platforms, healthcare applications and EV charging infrastructure**, focusing on unauthorized access, privacy exposure and command-execution risks.
 
