@@ -356,9 +356,6 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <img src="https://img.shields.io/badge/NoSQLMap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Arjun-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Kiterunner-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Autorize-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/HTTP_Request_Smuggler-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
-<img src="https://img.shields.io/badge/ActiveScan++-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 <img src="https://img.shields.io/badge/JWT_Tool-050505?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/GraphQL-050505?style=for-the-badge&logo=graphql&logoColor=E10098"/>
 <img src="https://img.shields.io/badge/GraphQLmap-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
@@ -408,7 +405,7 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <img src="https://img.shields.io/badge/Privilege_Escalation-050505?style=for-the-badge&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Lateral_Movement-050505?style=for-the-badge&logoColor=FF4040"/>
 <img src="https://img.shields.io/badge/Persistence-050505?style=for-the-badge&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/C2_Operations-050505?style=for-the-badge&logoColor=FF4040"/>
+
 
 
 ### `MOBILE / DEVICE`
@@ -419,7 +416,6 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <img src="https://img.shields.io/badge/Objection-050505?style=for-the-badge&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/MobSF-050505?style=for-the-badge&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 <img src="https://img.shields.io/badge/ADB-050505?style=for-the-badge&logo=android&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Android_Studio-050505?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
 <img src="https://img.shields.io/badge/Xcode-050505?style=for-the-badge&logo=xcode&logoColor=147EFB"/>
@@ -428,10 +424,6 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <img src="https://img.shields.io/badge/Genymotion-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/Apktool-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/JADX-050505?style=for-the-badge&logo=java&logoColor=FF4040"/>
-<img src="https://img.shields.io/badge/Apkleaks-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/SSL_Kill_Switch-050505?style=for-the-badge&logo=apple&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/LLDB-050505?style=for-the-badge&logo=apple&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Keychain_Analysis-050505?style=for-the-badge&logo=apple&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/IPA_Analysis-050505?style=for-the-badge&logo=apple&logoColor=00FF88"/>
 <img src="https://img.shields.io/badge/APK_Analysis-050505?style=for-the-badge&logo=android&logoColor=00FF88"/>
 
@@ -723,7 +715,6 @@ Independently researching **internet-facing applications, APIs, cloud services a
 `Google Cloud`
 
 <br>
-
 <img src="https://img.shields.io/badge/CLLMSP-CERTIFIED%20LLM%20SECURITY%20PROFESSIONAL-050505?style=for-the-badge&logoColor=00E5FF" height="32"/>
 
 **Certified LLM Security Professional — CLLMSP**
@@ -742,13 +733,9 @@ Independently researching **internet-facing applications, APIs, cloud services a
 **Uttarakhand Technical University** · **2019–2023**
 
 <img src="https://img.shields.io/badge/8.3_CGPA-HONOURS-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
-
 <br><br>
-
 **Computer Science** · **Cybersecurity**  **AI/ML** · **Networking** · **Software Engineering**
-
 </div>
-
 
 ---
 
@@ -766,10 +753,6 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshshahi99&layout=compact&hide_border=true&bg_color=050505&title_color=8A2BE2&text_color=00FF88"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshshahi99&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=7"/>
-
 </div>
 
 ---
@@ -779,8 +762,6 @@ Independently researching **internet-facing applications, APIs, cloud services a
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,35:071A2B,70:10105C,100:050505&text=ESTABLISH%20CONNECTION&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=SECURE%20CHANNEL%20%2F%20NETWORK%20ONLINE&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/harshshahi99/">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
@@ -798,22 +779,14 @@ Independently researching **internet-facing applications, APIs, cloud services a
 <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
-<br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=00E5FF&background=050505&center=true&vCenter=true&width=750&lines=%5B+root%40harsh+%5D%24+connect;%5B%2B%5D+Channel+secured...;%5B%2B%5D+Ready+to+collaborate...;%5B%2B%5D+Let's+build+%26+break+things+responsibly.;%5B%2B%5D+Connection+established+%E2%9C%93"/>
-
-<br><br>
 
 <div align="center">
 
 <strong>OFFENSIVE SECURITY</strong> · <strong>SECURITY RESEARCH</strong> · <strong>COLLABORATION</strong> · <strong>IMPACT</strong>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=harshshahi99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
-
 <br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=900&color=00FF88&background=050505&center=true&vCenter=true&width=600&lines=%5B+root%40harsh+%5D%24+exit;%5B%2B%5D+Session+closed.;%5B%2B%5D+Security+research+continues...;%5B%2B%5D+See+you+on+the+other+side." />
 
 </div>
