@@ -137,59 +137,174 @@ I also participate in **responsible disclosure**, researching internet-facing pl
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,35:071A2B,70:10105C,100:050505&text=AI%20%E2%9C%95%20OFFENSIVE%20SECURITY&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=MULTI--AGENT%20PENTESTING%20%2F%20SECURITY%20AUTOMATION&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
+<br>
 
-```text id="n3qj3b"
-                         ╔══════════════════════════╗
-                         ║     AI ORCHESTRATOR      ║
-                         ║    MCP • TOOLS • LLM     ║
-                         ╚════════════╤═════════════╝
-                                      │
-                    ┌─────────────────┼─────────────────┐
-                    │                 │                 │
-                    ▼                 ▼                 ▼
-             ╭────────────╮    ╭────────────╮    ╭────────────╮
-             │  RECON AI  │    │ DISCOVERY AI│   │ ANALYSIS AI │
-             │            │    │             │   │             │
-             │ OSINT      │    │ Endpoints   │   │ Vulns       │
-             │ Assets     │    │ APIs        │   │ Context     │
-             │ Attack Map │    │ Services    │   │ Severity    │
-             ╰─────┬──────╯    ╰──────┬──────╯   ╰──────┬──────╯
-                   │                  │                 │
-                   └──────────────────┼─────────────────┘
-                                      │
-                                      ▼
-                         ╔══════════════════════════╗
-                         ║      ATTACK PATH AI      ║
-                         ║                          ║
-                         ║  CHAIN • PRIORITIZE      ║
-                         ║  REASON • SIMULATE       ║
-                         ╚════════════╤═════════════╝
-                                      │
-                                      ▼
-                         ╭──────────────────────────╮
-                         │    VALIDATION AGENT      │
-                         │                          │
-                         │   TEST → VERIFY → PoC    │
-                         ╰────────────┬─────────────╯
-                                      │
-                                      ▼
-                    ┌─────────────────┴─────────────────┐
-                    │                                   │
-                    ▼                                   ▼
-             ╔══════════════╗                    ╔══════════════╗
-             ║   REPORT AI  ║ ────────▶ FIX ───▶ ║  VERIFY AI   ║
-             ║  Evidence    ║                    ║    RETEST     ║
-             ╚══════════════╝                    ╚══════════════╝
+<div align="center">
 
+<img src="https://img.shields.io/badge/AI_ORCHESTRATOR-MCP_%7C_TOOLS_%7C_LLM-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
 
-        ─────────────────────────────────────────────────────────
+<br><br>
 
-          RECON → DISCOVER → ANALYZE → CHAIN → VALIDATE
-                         ↓
-                  REPORT → REMEDIATE → RETEST
+<table>
+<tr>
 
-        ─────────────────────────────────────────────────────────
-```
+<td width="32%" valign="top" align="center">
+
+<h3>RECON AI</h3>
+
+<img src="https://img.shields.io/badge/OSINT-050505?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/ASSETS-050505?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/ATTACK_MAP-050505?style=for-the-badge&logoColor=00E5FF"/>
+
+<br><br>
+
+<strong>Discover the attack surface</strong>
+
+<br><br>
+
+Reconnaissance  
+Asset Discovery  
+OSINT  
+Attack Surface Mapping
+
+</td>
+
+<td width="4%" align="center">
+
+<h2>→</h2>
+
+</td>
+
+<td width="32%" valign="top" align="center">
+
+<h3>DISCOVERY AI</h3>
+
+<img src="https://img.shields.io/badge/ENDPOINTS-050505?style=for-the-badge&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/APIs-050505?style=for-the-badge&logoColor=7C4DFF"/>
+<img src="https://img.shields.io/badge/SERVICES-050505?style=for-the-badge&logoColor=7C4DFF"/>
+
+<br><br>
+
+<strong>Map exploitable entry points</strong>
+
+<br><br>
+
+Endpoint Discovery  
+API Enumeration  
+Service Identification  
+Technology Mapping
+
+</td>
+
+<td width="4%" align="center">
+
+<h2>→</h2>
+
+</td>
+
+<td width="32%" valign="top" align="center">
+
+<h3>ANALYSIS AI</h3>
+
+<img src="https://img.shields.io/badge/VULNS-050505?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/CONTEXT-050505?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/SEVERITY-050505?style=for-the-badge&logoColor=00E5FF"/>
+
+<br><br>
+
+<strong>Understand security weaknesses</strong>
+
+<br><br>
+
+Vulnerability Analysis  
+Contextual Reasoning  
+Risk Prioritization  
+Attack Surface Correlation
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ATTACK_PATH_AI-CHAIN_%7C_PRIORITIZE_%7C_REASON_%7C_SIMULATE-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td width="48%" valign="top" align="center">
+
+<h3>VALIDATION AGENT</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/TEST-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/VERIFY-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/PoC-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br><br>
+
+<strong>Validate → Verify → Demonstrate Impact</strong>
+
+<br><br>
+
+Automated validation workflows  
+Evidence collection  
+Proof-of-concept generation  
+Attack-path verification
+
+</td>
+
+<td width="4%" align="center">
+
+<h1>→</h1>
+
+</td>
+
+<td width="48%" valign="top" align="center">
+
+<h3>REPORT & VERIFY</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/REPORT-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/REMEDIATE-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/RETEST-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br><br>
+
+<strong>Evidence → Remediation → Verification</strong>
+
+<br><br>
+
+Security Reporting  
+Technical Evidence  
+Remediation Guidance  
+Automated Retesting
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/RECON-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/DISCOVER-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/ANALYZE-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/CHAIN-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/VALIDATE-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/REPORT-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+<img src="https://img.shields.io/badge/RETEST-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br><br>
+
+<strong>HUMAN EXPERTISE × AI REASONING × OFFENSIVE SECURITY</strong>
+
+</div>
 
 ### `// CURRENT EXPLORATION`
 
