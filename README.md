@@ -431,59 +431,49 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,40:071A2B,70:10105C,100:050505&text=CERTIFICATIONS&fontColor=00E5FF&fontSize=40&fontAlignY=42&desc=RED%20TEAMING%20%2F%20CLOUD%20%2F%20AI%20SECURITY&descAlignY=65&descSize=14&descColor=7C4DFF&animation=twinkling" width="100%"/>
 
-<br>
+<div align="left">
 
-### 🛡️ `RED TEAMING`
+<img src="https://img.shields.io/badge/CRTO-CERTIFIED%20RED%20TEAM%20OPERATOR-050505?style=for-the-badge&logoColor=00E5FF" height="32"/>
 
-**🟥 CRTO — Certified Red Team Operator** <img src="https://img.shields.io/badge/CRTO-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
-
-    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
-
-**🟪 CRTA — Certified Red Team Analyst** <img src="https://img.shields.io/badge/CRTA-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
-
-    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
-
-**⚔️ CEH Practical — Certified Ethical Hacker** <img src="https://img.shields.io/badge/CEH_PRACTICAL-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+**Certified Red Team Operator — CRTO**
+`Zero-Point Security`
 
 <br>
 
-### ☁️ `CLOUD SECURITY`
+<img src="https://img.shields.io/badge/CRTA-CERTIFIED%20RED%20TEAM%20ANALYST-050505?style=for-the-badge&logoColor=7C4DFF" height="32"/>
 
-**☁️ MCRTA — Multi-Cloud Red Team Analyst** <img src="https://img.shields.io/badge/MCRTA-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
-
-    `▰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▰`
-
-**🌐 Google Cloud Digital Leader** <img src="https://img.shields.io/badge/GCP_DIGITAL_LEADER-CERTIFIED-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+**Certified Red Team Analyst — CRTA**
+`CyberWarFare Labs`
 
 <br>
 
-### 🧠 `AI / LLM SECURITY`
+<img src="https://img.shields.io/badge/CEH%20PRACTICAL-CERTIFIED%20ETHICAL%20HACKER-050505?style=for-the-badge&logo=ec-council&logoColor=00E5FF" height="32"/>
 
-**🧠 CLLMSP — Certified LLM Security Professional** <img src="https://img.shields.io/badge/CLLMSP-CERTIFIED-7C4DFF?style=for-the-badge&labelColor=050505&color=050505"/>
+**Certified Ethical Hacker — CEH Practical**
+`EC-Council`
 
 <br>
 
-```text
-       ┌─────────────────────────────────────────┐
-       │                                         │
-       │   🛡️  OFFENSIVE SECURITY                │
-       │          │                              │
-       │          ▼                              │
-       │   ☁️  CLOUD SECURITY                    │
-       │          │                              │
-       │          ▼                              │
-       │   🧠  AI / LLM SECURITY                 │
-       │                                         │
-       │   ───────────────────────────────────   │
-       │        CONTINUOUS LEARNING →            │
-       │        CONTINUOUSLY BREAKING →          │
-       │        CONTINUOUSLY HARDENING           │
-       │                                         │
-       └─────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/MCRTA-MULTI--CLOUD%20RED%20TEAM%20ANALYST-050505?style=for-the-badge&logoColor=7C4DFF" height="32"/>
+
+**Multi-Cloud Red Team Analyst — MCRTA**
+`CyberWarFare Labs`
+
+<br>
+
+<img src="https://img.shields.io/badge/GCP-GOOGLE%20CLOUD%20DIGITAL%20LEADER-050505?style=for-the-badge&logo=googlecloud&logoColor=4285F4" height="32"/>
+
+**Google Cloud Digital Leader**
+`Google Cloud`
+
+<br>
+
+<img src="https://img.shields.io/badge/CLLMSP-CERTIFIED%20LLM%20SECURITY%20PROFESSIONAL-050505?style=for-the-badge&logoColor=00E5FF" height="32"/>
+
+**Certified LLM Security Professional — CLLMSP**
+`AI / LLM Security`
 
 </div>
-
 
 
 ---
