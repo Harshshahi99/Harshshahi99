@@ -39,6 +39,19 @@
 </div>
 ───────────────────────────────────────────
 
+# `ABOUT`
+
+**Offensive Security Engineer | Cyber Security Consultant | Security Researcher**
+
+I'm an **Offensive Security Engineer and Security Consultant at Deloitte**, focused on manual penetration testing, vulnerability assessment, adversary simulation, cloud security and security research.
+
+My experience covers **200+ applications and infrastructure environments** across **Energy, Automobile, Healthcare, E-commerce and Enterprise** sectors. My work includes identifying high-impact vulnerabilities, reducing false positives, validating exploitability, mapping attack paths and delivering actionable remediation guidance.
+
+I work across the full pentesting lifecycle — from **scoping and reconnaissance through exploitation, validation, reporting, stakeholder communication and retesting**.
+
+I also participate in **responsible disclosure**, researching internet-facing platforms and working with organizations to responsibly report and remediate security vulnerabilities.
+
+---
 # `TARGETS`
 <pre align="left">
 TARGETS
@@ -67,20 +80,6 @@ harsh@kali:~$ ./profile --status
 
 harsh@kali:~$
 </pre>
-
-# `ABOUT`
-
-**Offensive Security Engineer | Cyber Security Consultant | Security Researcher**
-
-I'm an **Offensive Security Engineer and Security Consultant at Deloitte**, focused on manual penetration testing, vulnerability assessment, adversary simulation, cloud security and security research.
-
-My experience covers **200+ applications and infrastructure environments** across **Energy, Automobile, Healthcare, E-commerce and Enterprise** sectors. My work includes identifying high-impact vulnerabilities, reducing false positives, validating exploitability, mapping attack paths and delivering actionable remediation guidance.
-
-I work across the full pentesting lifecycle — from **scoping and reconnaissance through exploitation, validation, reporting, stakeholder communication and retesting**.
-
-I also participate in **responsible disclosure**, researching internet-facing platforms and working with organizations to responsibly report and remediate security vulnerabilities.
-
----
 
 # `OFFENSIVE SECURITY`
 
