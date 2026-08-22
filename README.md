@@ -179,9 +179,15 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 <div align="center">
 
 ### `RECON / SCANNING`
+<img src="https://img.shields.io/badge/Subfinder-050505?style=for-the-badge&logo=hackthebox&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/HTTPX-050505?style=for-the-badge&logo=cloudflare&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Shodan-050505?style=for-the-badge&logo=shodan&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Censys-050505?style=for-the-badge&logo=censys&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/theHarvester-050505?style=for-the-badge&logo=linux&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SpiderFoot-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Nuclei-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Naabu-050505?style=for-the-badge&logo=go&logoColor=00FF88"/>
 
-<img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Nessus-050505?style=for-the-badge&logoColor=8A2BE2"/>
 
 ### `WEB / API / TRAFFIC`
 
