@@ -13,16 +13,6 @@
 
 <img src="https://img.shields.io/badge/YOUR_TIMER_ON_THIS_PROFILE-050505?style=for-the-badge&labelColor=050505&color=00FF88" width="300"/>
 
-</div>
-
-<br>
-
-<img src="https://img.shields.io/badge/YOUR_TIMER_ON_THIS_PROFILE-050505?style=for-the-badge&labelColor=050505&color=00FF88" width="300"/>
-
-</div>
-
-</div>
-
 <br>
 <div align="center">
 
