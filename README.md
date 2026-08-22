@@ -17,25 +17,33 @@
 <table width="100%" bgcolor="#050505">
 <tr>
 <td>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=00FF88&background=050505&center=true&vCenter=true&width=900&lines=%5B+root%40harsh+%5D%24+whoami;OFFENSIVE+SECURITY+ENGINEER;SECURITY+CONSULTANT+%40+DELOITTE;WEB+%7C+API+%7C+CLOUD+%7C+MOBILE+%7C+RED+TEAM;AI-LED+PENTESTING+%7C+MCP+%7C+MULTI-AGENT+AUTOMATION" />
+
+</div>
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  root@harsh:~$ ./profile --execute                                         │
-│                                                                             │
-│  [01] RECON            ████████████████████  ONLINE                        │
-│  [02] ENUMERATION      ████████████████████  ONLINE                        │
-│  [03] ATTACK PATH      ████████████████████  ACTIVE                        │
-│  [04] VALIDATION       ████████████████████  ACTIVE                        │
-│  [05] AUTOMATION       ████████████████████  AI + MCP                      │
-│                                                                             │
-│  TARGETS  ::  WEB / API / CLOUD / MOBILE / INFRA / DEVICES / LLM          │
-│  OBJECTIVE::  FIND → VALIDATE → EXPLAIN → REMEDIATE                        │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+[01] RECON          ████████████████  ONLINE
+[02] ENUMERATION    ████████████████  ONLINE
+[03] ATTACK PATH    ████████████████  ACTIVE
+[04] VALIDATION     ████████████████  ACTIVE
+[05] AUTOMATION     ████████████████  AI × MCP
 
-</td>
-</tr>
-</table>
+────────────────────────────────────────────
+
+TARGETS
+WEB · API · CLOUD · MOBILE · INFRA · DEVICES · LLM
+
+OBJECTIVE
+FIND → VALIDATE → EXPLAIN → REMEDIATE
+
+────────────────────────────────────────────
+
+root@harsh:~$ ./profile --status
+[+] OFFENSIVE SECURITY     : ONLINE
+[+] SECURITY RESEARCH      : ACTIVE
+[+] AI PENTESTING          : IN PROGRESS
 
 # `ABOUT`
 
@@ -43,7 +51,7 @@
 
 I'm an **Offensive Security Engineer and Security Consultant at Deloitte**, focused on manual penetration testing, vulnerability assessment, adversary simulation, cloud security and security research.
 
-My experience covers **100+ applications and infrastructure environments** across **Energy, Automobile, Healthcare, E-commerce and Enterprise** sectors. My work includes identifying high-impact vulnerabilities, reducing false positives, validating exploitability, mapping attack paths and delivering actionable remediation guidance.
+My experience covers **200+ applications and infrastructure environments** across **Energy, Automobile, Healthcare, E-commerce and Enterprise** sectors. My work includes identifying high-impact vulnerabilities, reducing false positives, validating exploitability, mapping attack paths and delivering actionable remediation guidance.
 
 I work across the full pentesting lifecycle — from **scoping and reconnaissance through exploitation, validation, reporting, stakeholder communication and retesting**.
 
@@ -51,7 +59,7 @@ I also participate in **responsible disclosure**, researching internet-facing pl
 
 ---
 
-# `02 // OFFENSIVE SECURITY`
+# `OFFENSIVE SECURITY`
 
 <table width="100%">
 <tr>
