@@ -785,7 +785,7 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,35:071A2B,70:10105C,100:050505&text=ESTABLISH%20CONNECTION&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=SECURE%20CHANNEL%20%2F%20NETWORK%20ONLINE&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
 
-<a href="https://www.quora.com/profile/Harsh-Shahi">
+<a href="https://www.quora.com/profile/Harsh-Vikram-Shahi">
 <img src="https://img.shields.io/badge/QUORA-050505?style=for-the-badge&logo=quora&logoColor=00E5FF"/>
 </a>
 <a href="https://www.linkedin.com/in/harshshahi99/">
