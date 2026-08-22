@@ -10,12 +10,6 @@
 <img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
 <img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/●_STATUS-ONLINE-050505?style=for-the-badge&labelColor=050505&color=00FF88"/>
-<img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
-
 </div>
 
 ---
