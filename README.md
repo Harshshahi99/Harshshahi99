@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
 <img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/●_STATUS-ONLINE-050505?style=for-the-badge&labelColor=050505&color=00FF88"/>
+<img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
+
 </div>
 
 ---
@@ -19,31 +25,48 @@
 <td>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=00FF88&background=050505&center=true&vCenter=true&width=900&lines=%5B+root%40harsh+%5D%24+whoami;OFFENSIVE+SECURITY+ENGINEER;SECURITY+CONSULTANT+%40+DELOITTE;WEB+%7C+API+%7C+CLOUD+%7C+MOBILE+%7C+RED+TEAM;AI-LED+PENTESTING+%7C+MCP+%7C+MULTI-AGENT+AUTOMATION" />
-
 </div>
 
-```text
-[01] RECON          ████████████████  ONLINE
-[02] ENUMERATION    ████████████████  ONLINE
-[03] ATTACK PATH    ████████████████  ACTIVE
-[04] VALIDATION     ████████████████  ACTIVE
-[05] AUTOMATION     ████████████████  AI × MCP
+<div align="center">
 
-────────────────────────────────────────────
+<pre align="left">
+[01] RECON          <span style="color:#00FF88;">████████████████</span>  ONLINE
+[02] ENUMERATION    <span style="color:#00FF88;">████████████████</span>  ONLINE
+[03] ATTACK PATH    <span style="color:#00FF88;">████████████████</span>  ACTIVE
+[04] VALIDATION     <span style="color:#00FF88;">████████████████</span>  ACTIVE
+[05] AUTOMATION     <span style="color:#00FF88;">████████████████</span>  AI × MCP
+</pre>
+</div>
+───────────────────────────────────────────
 
+# `TARGETS`
+<pre align="left">
 TARGETS
-WEB · API · CLOUD · MOBILE · INFRA · DEVICES · LLM
+└─ WEB · API · CLOUD · MOBILE · INFRA · DEVICES · LLM
 
 OBJECTIVE
-FIND → VALIDATE → EXPLAIN → REMEDIATE
+└─ FIND → VALIDATE → EXPLAIN → REMEDIATE
+</pre>
 
 ────────────────────────────────────────────
 
-root@harsh:~$ ./profile --status
-[+] OFFENSIVE SECURITY     : ONLINE
-[+] SECURITY RESEARCH      : ACTIVE
-[+] AI PENTESTING          : IN PROGRESS
+<pre align="left">
+harsh@kali:~$ ./profile --status
+
+[*] loading offensive-security modules...
+[+] web-pentest       : active
+[+] api-pentest       : active
+[+] cloud-security    : active
+[+] mobile-pentest    : active
+[+] red-team          : active
+[+] security-research : active
+[+] ai-pentesting     : developing
+[+] mcp-automation    : active
+
+[*] profile status: operational
+
+harsh@kali:~$
+</pre>
 
 # `ABOUT`
 
