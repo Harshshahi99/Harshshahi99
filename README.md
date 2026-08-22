@@ -14,17 +14,6 @@
 <img src="https://img.shields.io/badge/YOUR_TIMER_ON_THIS_PROFILE-050505?style=for-the-badge&labelColor=050505&color=00FF88" width="300"/>
 
 <br>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=900&pause=100&color=00FF88&background=050505&center=true&vCenter=true&width=300&height=60&lines=00%3A00%3A01;00%3A00%3A02;00%3A00%3A03;00%3A00%3A04;00%3A00%3A05;00%3A00%3A06;00%3A00%3A07;00%3A00%3A08;00%3A00%3A09;00%3A00%3A10" />
-
-<br>
-
-<img src="https://img.shields.io/badge/YOUR_TIMER_ON_THIS_PROFILE-050505?style=for-the-badge&labelColor=050505&color=00FF88" width="300"/>
-
-</div>
-</div>
-
 ---
 
 <table width="100%" bgcolor="#050505">
