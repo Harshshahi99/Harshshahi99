@@ -6,9 +6,15 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/●_STATUS-ONLINE-050505?style=for-the-badge&labelColor=050505&color=00FF88"/>
-<img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=900&pause=100&color=00FF88&background=050505&center=true&vCenter=true&width=300&height=60&lines=00%3A00%3A01;00%3A00%3A02;00%3A00%3A03;00%3A00%3A04;00%3A00%3A05;00%3A00%3A06;00%3A00%3A07;00%3A00%3A08;00%3A00%3A09;00%3A00%3A10;00%3A00%3A11;00%3A00%3A12;00%3A00%3A13;00%3A00%3A14;00%3A00%3A15;00%3A00%3A16;00%3A00%3A17;00%3A00%3A18;00%3A00%3A19;00%3A00%3A20;00%3A00%3A21;00%3A00%3A22;00%3A00%3A23;00%3A00%3A24;00%3A00%3A25;00%3A00%3A26;00%3A00%3A27;00%3A00%3A28;00%3A00%3A29;00%3A00%3A30;00%3A00%3A31;00%3A00%3A32;00%3A00%3A33;00%3A00%3A34;00%3A00%3A35;00%3A00%3A36;00%3A00%3A37;00%3A00%3A38;00%3A00%3A39;00%3A00%3A40;00%3A00%3A41;00%3A00%3A42;00%3A00%3A43;00%3A00%3A44;00%3A00%3A45;00%3A00%3A46;00%3A00%3A47;00%3A00%3A48;00%3A00%3A49;00%3A00%3A50;00%3A00%3A51;00%3A00%3A52;00%3A00%3A53;00%3A00%3A54;00%3A00%3A55;00%3A00%3A56;00%3A00%3A57;00%3A00%3A58;00%3A00%3A59" />
+
+<br>
+
+<img src="https://img.shields.io/badge/YOUR_TIMER_ON_THIS_PROFILE-050505?style=for-the-badge&labelColor=050505&color=00FF88" width="300"/>
+
+</div>
 
 </div>
 
