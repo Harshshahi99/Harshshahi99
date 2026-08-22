@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:10051A,75:071A12,100:050505&text=HARSH%20SHAHI&fontColor=00FF88&fontSize=58&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%20SECURITY%20CONSULTANT&descAlignY=62&descSize=18&descColor=8A2BE2&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:10051A,75:071A12,100:050505&text=HARSH%20VIKRAM%20SHAHI&fontColor=00FF88&fontSize=58&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%20SECURITY%20CONSULTANT&descAlignY=62&descSize=18&descColor=8A2BE2&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=00FF88&background=050505&center=true&vCenter=true&width=900&lines=%5B+root%40harsh+%5D%24+whoami;OFFENSIVE+SECURITY+ENGINEER;SECURITY+CONSULTANT+%40+DELOITTE;WEB+%7C+API+%7C+CLOUD+%7C+MOBILE+%7C+RED+TEAM;AI-LED+PENTESTING+%7C+MCP+%7C+MULTI-AGENT+AUTOMATION" />
 
@@ -785,6 +785,9 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,35:071A2B,70:10105C,100:050505&text=ESTABLISH%20CONNECTION&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=SECURE%20CHANNEL%20%2F%20NETWORK%20ONLINE&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
 
+<a href="https://www.quora.com/profile/Harsh-Shahi">
+<img src="https://img.shields.io/badge/QUORA-050505?style=for-the-badge&logo=quora&logoColor=00E5FF"/>
+</a>
 <a href="https://www.linkedin.com/in/harshshahi99/">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
