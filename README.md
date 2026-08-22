@@ -495,9 +495,7 @@ Application and infrastructure security assessments covering **Web/API Pentestin
 
 <div align="center">
 
-<a href="https://vercel.com/">
-  <img src="https://vercel.com/button" alt="Deploy with Vercel"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1700&pause=750&color=00FF88&background=050505&center=true&vCenter=true&width=950&lines=%5B+root%40harsh+%5D%24+./offensive-security.sh;%5B%2B%5D+RESEARCHING...;%5B%2B%5D+HUNTING+VULNERABILITIES...;%5B%2B%5D+VALIDATING+IMPACT...;%5B%2B%5D+SECURING+REAL-WORLD+SYSTEMS...;%5B%2B%5D+DELIVERING+RESULTS...;%5B%2B%5D+RECOGNITION+UNLOCKED+%E2%9C%93;%5B%2B%5D+IMPACT+%3D+SUCCESS;%5B+root%40harsh+%5D%24+_"/>
 
 </div>
 
