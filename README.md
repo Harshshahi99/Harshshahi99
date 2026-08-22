@@ -1,296 +1,430 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated offensive security terminal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:10051A,75:071A12,100:050505&text=HARSH%20SHAHI&fontColor=00FF88&fontSize=58&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%20SECURITY%20CONSULTANT&descAlignY=62&descSize=18&descColor=8A2BE2&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=00FF88&background=050505&center=true&vCenter=true&width=900&lines=%5B+root%40harsh+%5D%24+whoami;OFFENSIVE+SECURITY+ENGINEER;SECURITY+CONSULTANT+%40+DELOITTE;WEB+%7C+API+%7C+CLOUD+%7C+MOBILE+%7C+RED+TEAM;AI-LED+PENTESTING+%7C+MCP+%7C+MULTI-AGENT+AUTOMATION" />
 
 <br>
 
-# `> whoami`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=800&color=00FF88&center=true&vCenter=true&width=850&lines=Offensive+Security+Engineer;Security+Consultant+%40+Deloitte;Red+Team+%7C+Cloud+%7C+Application+Security;AI-Led+Pentesting+%7C+Multi-Agent+Security+Automation" />
-
-<br>
-
-<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-050505?style=for-the-badge&color=00FF88" />
-<img src="https://img.shields.io/badge/RED_TEAMING-050505?style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/badge/AI_SECURITY-050505?style=for-the-badge&color=FF4646" />
+<img src="https://img.shields.io/badge/●_STATUS-ONLINE-050505?style=for-the-badge&labelColor=050505&color=00FF88"/>
+<img src="https://img.shields.io/badge/●_MODE-OFFENSIVE-050505?style=for-the-badge&labelColor=050505&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/●_AI_SECURITY-ACTIVE-050505?style=for-the-badge&labelColor=050505&color=FF4040"/>
 
 </div>
 
 ---
 
-# 💫 About Me
-
-I'm an **Offensive Security Engineer and Security Consultant at Deloitte** with **3+ years of experience** across penetration testing, offensive security, cloud security, adversary simulation, and security research.
-
-My experience spans **web applications, APIs, cloud environments, thick clients, mobile applications, infrastructure, networks, access-control systems, connected devices, red teaming, and LLM security**.
-
-I approach assessments from an **attacker's perspective** — combining reconnaissance, enumeration, manual testing, attack-path analysis, controlled validation, and remediation.
+<table width="100%" bgcolor="#050505">
+<tr>
+<td>
 
 ```text
-RECON  ──►  ENUMERATION  ──►  ANALYSIS  ──►  VALIDATION  ──►  REMEDIATION
-  │                                                     ▲
-  └────────────── AI + MULTI-AGENT AUTOMATION ─────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  root@harsh:~$ ./profile --execute                                         │
+│                                                                             │
+│  [01] RECON            ████████████████████  ONLINE                        │
+│  [02] ENUMERATION      ████████████████████  ONLINE                        │
+│  [03] ATTACK PATH      ████████████████████  ACTIVE                        │
+│  [04] VALIDATION       ████████████████████  ACTIVE                        │
+│  [05] AUTOMATION       ████████████████████  AI + MCP                      │
+│                                                                             │
+│  TARGETS  ::  WEB / API / CLOUD / MOBILE / INFRA / DEVICES / LLM          │
+│  OBJECTIVE::  FIND → VALIDATE → EXPLAIN → REMEDIATE                        │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-I also actively participate in **responsible disclosure**, identifying security issues in internet-facing applications and platforms and working with organizations to responsibly report and remediate them.
+</td>
+</tr>
+</table>
+
+# `01 // ABOUT`
+
+**Offensive Security Engineer | Cyber Security Consultant | Security Researcher**
+
+I'm an **Offensive Security Engineer and Security Consultant at Deloitte**, focused on manual penetration testing, vulnerability assessment, adversary simulation, cloud security and security research.
+
+My experience covers **100+ applications and infrastructure environments** across **Energy, Automobile, Healthcare, E-commerce and Enterprise** sectors. My work includes identifying high-impact vulnerabilities, reducing false positives, validating exploitability, mapping attack paths and delivering actionable remediation guidance.
+
+I work across the full pentesting lifecycle — from **scoping and reconnaissance through exploitation, validation, reporting, stakeholder communication and retesting**.
+
+I also participate in **responsible disclosure**, researching internet-facing platforms and working with organizations to responsibly report and remediate security vulnerabilities.
 
 ---
 
-# ⚔️ Offensive Security
+# `02 // OFFENSIVE SECURITY`
 
-<div align="center">
-
-| 🌐 APPLICATION & API | ☁️ CLOUD | 🎯 OFFENSIVE |
-|:---:|:---:|:---:|
-| Web Application | Cloud Security | Red Teaming |
-| API Security | Azure | Binary Exploitation |
-| REST API | AWS | Infrastructure |
-| WebSocket | GCP | Network Security |
-| GraphQL | Cloud Identity | Citrix |
-| Thick Client | Cloud Posture | Attack Simulation |
-
-| 📱 MOBILE & DEVICE | 🧠 AI / LLM | 🔐 ENTERPRISE |
-|:---:|:---:|:---:|
-| iOS | LLM Pentesting | Active Directory |
-| Android | AI Security | Access Control |
-| HID Access Control | AI Agents | Network Segmentation |
-| CCTV | MCP Integration | OSINT |
-| Device Security | Multi-Agent Automation | Phishing Simulation |
-
-</div>
-
----
-
-# 🤖 AI × Offensive Security
-
-```text
-                         ┌──────────────────┐
-                         │   AI ORCHESTRATOR │
-                         └─────────┬────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              ▼                    ▼                    ▼
-        ┌───────────┐        ┌───────────┐        ┌───────────┐
-        │ RECON     │        │ ANALYSIS   │        │ DISCOVERY │
-        │ AGENT     │        │ AGENT      │        │ AGENT     │
-        └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
-              └────────────────────┼────────────────────┘
-                                   ▼
-                         ATTACK-PATH ANALYSIS
-                                   │
-                                   ▼
-                              VALIDATION
-                                   │
-                                   ▼
-                               REPORTING
-```
-
-I'm exploring **AI-led penetration testing, AI integration with MCP, and multi-agent security automation** to automate repetitive stages of the penetration-testing lifecycle.
-
-`AI Integration` · `MCP` · `Multi-Agent Systems` · `Recon Automation` · `Security Tool Orchestration` · `AI-Assisted Validation` · `LLM Security`
-
----
-
-# 🧰 Tools & Arsenal
-
-### `SCANNING / ENUMERATION`
-
-![Nessus](https://img.shields.io/badge/Nessus-050505?style=for-the-badge&color=00FF88)
-![Nmap](https://img.shields.io/badge/Nmap-050505?style=for-the-badge&color=8A2BE2)
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
 ### `WEB / API`
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Caido](https://img.shields.io/badge/Caido-050505?style=for-the-badge&color=00FF88)
-![Postman](https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=8A2BE2)
-![Wireshark](https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00FF88)
+`Web Application`  
+`API Security`  
+`REST API`  
+`WebSocket`  
+`GraphQL`  
+`Thick Client`  
+`LLM Pentest`
 
-### `EXPLOITATION / ADVERSARY`
+</td>
+<td width="33%" valign="top">
 
-![Metasploit](https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logo=metasploit&logoColor=FF4646)
-![PowerView](https://img.shields.io/badge/PowerView-050505?style=for-the-badge&color=00FF88)
-![WinPEAS](https://img.shields.io/badge/WinPEAS-050505?style=for-the-badge&color=8A2BE2)
-![LinPEAS](https://img.shields.io/badge/LinPEAS-050505?style=for-the-badge&color=00FF88)
-![Responder](https://img.shields.io/badge/Responder-050505?style=for-the-badge&color=FF4646)
-![BloodHound](https://img.shields.io/badge/BloodHound-050505?style=for-the-badge&color=8A2BE2)
-![C2 Server](https://img.shields.io/badge/C2_Server-050505?style=for-the-badge&color=00FF88)
+### `CLOUD / INFRA`
 
-### `MOBILE / RUNTIME`
+`Cloud Security`  
+`Azure`  
+`AWS`  
+`Google Cloud`  
+`Infrastructure`  
+`Network Security`  
+`Network Segmentation`  
+`Citrix`
 
-![Frida](https://img.shields.io/badge/Frida-050505?style=for-the-badge&color=00FF88)
-![Objection](https://img.shields.io/badge/Objection-050505?style=for-the-badge&color=8A2BE2)
+</td>
+<td width="33%" valign="top">
+
+### `OFFENSIVE`
+
+`Red Teaming`  
+`Binary Exploitation`  
+`Active Directory`  
+`Access Control`  
+`OSINT`  
+`Phishing Simulation`  
+`Threat Modelling`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### `MOBILE`
+
+`iOS`  
+`Android`  
+`Mobile Application Security`  
+`Runtime Analysis`
+
+</td>
+<td valign="top">
+
+### `DEVICE`
+
+`HID Access Control`  
+`CCTV`  
+`Device Security`  
+`IoT / Connected Systems`
+
+</td>
+<td valign="top">
+
+### `AI SECURITY`
+
+`LLM Security`  
+`LLM Pentesting`  
+`AI Pentesting`  
+`AI Security Research`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🐍 Languages & Automation
+# `03 // AI × OFFENSIVE SECURITY`
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=8A2BE2)
-![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00FF88)
-![C++](https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=c%2B%2B&logoColor=8A2BE2)
-![Bash](https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=00FF88)
-![PowerShell](https://img.shields.io/badge/PowerShell-050505?style=for-the-badge&logo=powershell&logoColor=8A2BE2)
-
-<br>
-
-`AI Integration` · `MCP` · `Multi-Agent Automation` · `Nmap Automation` · `Recon Automation` · `API Automation` · `Security Tool Integration`
-
-</div>
-
----
-
-# 📱 Mobile & Device
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│ MOBILE                                                       │
-│  ├── iOS                                                     │
-│  ├── Android                                                 │
-│  ├── Runtime Analysis                                        │
-│  └── Frida / Objection                                       │
-│                                                              │
-│ DEVICE / PHYSICAL SECURITY                                   │
-│  ├── HID Access Control                                      │
-│  ├── CCTV                                                    │
-│  ├── Network Devices                                         │
-│  └── IoT / Connected Systems                                 │
-└──────────────────────────────────────────────────────────────┘
+                         ┌────────────────────────┐
+                         │    AI ORCHESTRATOR     │
+                         │      MCP / TOOLS       │
+                         └───────────┬────────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              ▼                      ▼                      ▼
+        ┌───────────┐          ┌───────────┐          ┌───────────┐
+        │   RECON   │          │ DISCOVERY │          │  ANALYSIS │
+        │   AGENT   │          │   AGENT   │          │   AGENT   │
+        └─────┬─────┘          └─────┬─────┘          └─────┬─────┘
+              └──────────────────────┼──────────────────────┘
+                                     ▼
+                            ┌──────────────────┐
+                            │  ATTACK-PATH     │
+                            │     ANALYSIS     │
+                            └────────┬─────────┘
+                                     ▼
+                            ┌──────────────────┐
+                            │   VALIDATION     │
+                            │      AGENT       │
+                            └────────┬─────────┘
+                                     ▼
+                            ┌──────────────────┐
+                            │ REPORT → FIX →   │
+                            │      VERIFY      │
+                            └──────────────────┘
 ```
 
----
+</div>
 
-# 🏢 Professional Experience
+Currently exploring **AI-led penetration testing, AI integration with MCP and multi-agent security automation** to automate repetitive stages of the penetration-testing lifecycle.
 
-### `Deloitte`
-
-**Offensive Security Engineer · Security Consultant**
-
-Experience across:
-
-- Web applications and APIs
-- Cloud environments
-- Thick-client applications
-- Mobile applications
-- Infrastructure and network environments
-- Active Directory
-- Network segmentation
-- Access-control systems
-- IoT and connected devices
-- LLM / AI security
-- Red-team and adversary simulation
-- Security automation and research
-
-I've worked across **Energy, Automotive, Healthcare, E-commerce and Enterprise** environments, including engagements involving **Shell and ABB**.
+`AI Integration` · `MCP` · `Multi-Agent Systems` · `Recon Automation` · `Attack-Path Analysis` · `Security Tool Orchestration` · `AI-Assisted Validation`
 
 ---
 
-# 🏆 Certifications
+# `04 // TOOLKIT`
 
 <div align="center">
 
-| Certification | Badge |
-|:---|:---:|
-| 🛡️ **CRTO — Certified Red Team Operator** | ![CRTO](https://img.shields.io/badge/CRTO-00FF88?style=for-the-badge&labelColor=050505) |
-| 🛡️ **CEH — Certified Ethical Hacker** | ![CEH](https://img.shields.io/badge/CEH-8A2BE2?style=for-the-badge&labelColor=050505) |
-| 🎯 **CRTA — Certified Red Team Analyst** | ![CRTA](https://img.shields.io/badge/CRTA-00FF88?style=for-the-badge&labelColor=050505) |
-| ☁️ **MCRTA — Multi-Cloud Red Team Analyst** | ![MCRTA](https://img.shields.io/badge/MCRTA-8A2BE2?style=for-the-badge&labelColor=050505) |
-| ☁️ **Google Cloud Digital Leader** | ![GCP](https://img.shields.io/badge/GCP-00FF88?style=for-the-badge&labelColor=050505) |
-| 🧠 **CLLMSP** | ![CLLMSP](https://img.shields.io/badge/CLLMSP-8A2BE2?style=for-the-badge&labelColor=050505) |
+### `RECON / SCANNING`
+
+<img src="https://img.shields.io/badge/Nmap-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Nessus-050505?style=for-the-badge&logoColor=8A2BE2"/>
+
+### `WEB / API / TRAFFIC`
+
+<img src="https://img.shields.io/badge/Burp_Suite-050505?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+<img src="https://img.shields.io/badge/Caido-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Postman-050505?style=for-the-badge&logo=postman&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=00FF88"/>
+
+### `EXPLOITATION / AD / RED TEAM`
+
+<img src="https://img.shields.io/badge/Metasploit-050505?style=for-the-badge&logo=metasploit&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/PowerView-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/WinPEAS-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/LinPEAS-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Responder-050505?style=for-the-badge&logoColor=FF4040"/>
+<img src="https://img.shields.io/badge/BloodHound-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/C2_Server-050505?style=for-the-badge&logoColor=00FF88"/>
+
+### `MOBILE / DEVICE`
+
+<img src="https://img.shields.io/badge/Frida-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Objection-050505?style=for-the-badge&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/MobSF-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Ghidra-050505?style=for-the-badge&logoColor=8A2BE2"/>
+
+### `CLOUD / SECURITY ASSESSMENT`
+
+<img src="https://img.shields.io/badge/Prowler-050505?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/CIS--CAT-050505?style=for-the-badge&logoColor=8A2BE2"/>
 
 </div>
 
 ---
 
-# 🏅 Recognition
+# `05 // LANGUAGES + AUTOMATION`
 
 <div align="center">
 
-`🏆 MOVE THE DOT — INDIVIDUAL CATEGORY`
+<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=c%2B%2B&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/PowerShell-050505?style=for-the-badge&logo=powershell&logoColor=8A2BE2"/>
 
-`🏆 MOVE THE DOT — TEAM CATEGORY`
+<br><br>
 
-`🔐 RESPONSIBLE DISCLOSURE`
-
-`🧪 SECURITY RESEARCH`
-
-`🤖 SECURITY AUTOMATION`
+`AI Integration` · `MCP` · `Multi-Agent Automation` · `Recon Automation` · `Nmap Automation` · `API Automation` · `Security Tool Integration` · `Security Research & Tooling`
 
 </div>
 
 ---
 
-# 🌐 Socials
+# `06 // PROFESSIONAL TIMELINE`
+
+```text
+2023 ───────────────────────────────► 2025 ───────────────► 2026 ─────────►
+
+     SENIOR SECURITY ANALYST                     CYBER SECURITY CONSULTANT
+              │                                           │
+              ├─ Web / API / Infrastructure                ├─ Web / Mobile / API
+              ├─ OWASP / ASVS / CERT-In                   ├─ Cloud / Access Control
+              ├─ Vulnerability Management                  ├─ CCTV / Thick Client
+              ├─ Remediation / Re-testing                  ├─ LLM Applications
+              └─ 95% Backlog Reduction                     ├─ Hardware / Devices
+                                                           ├─ Red Team / Phishing
+                                                           ├─ OT Attack Simulation
+                                                           └─ Network Segmentation
+```
+
+### `DELOITTE // CYBER SECURITY CONSULTANT — ASM`
+
+**Apr 2026 – Present**
+
+- Led end-to-end manual penetration testing across **Web Applications, Mobile Applications, APIs, Cloud Environments, Access Control Systems, CCTV Systems, Thick Clients and LLM-based Applications**.
+- Led an **on-site security assessment for a petroleum client in the GCC region**, covering web, infrastructure, mobile, thick-client systems and fuel-dispensing devices.
+- Performed production-environment penetration testing with **zero downtime**, identifying and reporting multiple critical vulnerabilities across hardware devices and applications.
+- Performed **Black Box, Grey Box and White Box** assessments aligned with **OWASP Top 10, OWASP ASVS and CERT-In** guidelines.
+- Conducted cloud configuration security assessments across **IAM, networking, storage, WAF and identity exposure**, identifying misconfigurations, privilege-escalation risks and exploitable attack paths.
+- Contributed to red-team operations through **phishing and vishing simulations**.
+- Designed CTF machines and pre-assessment challenges for security capability evaluation.
+- Built automated frameworks to identify and simulate **OT attack surfaces** in a controlled cyber-lab environment supporting AI-driven threat simulation.
+- Conducted **network segmentation penetration testing**, validating VLAN isolation and CDE access boundaries.
+
+### `DELOITTE // SENIOR SECURITY ANALYST — ASM`
+
+**Aug 2023 – Jun 2025**
+
+- Conducted **Web, API and Infrastructure** penetration testing aligned with OWASP Top 10, OWASP ASVS and CERT-In guidelines.
+- Collaborated with the FLCM team to remediate long-standing vulnerability backlog and achieved **95% backlog reduction**.
+- Worked with application owners and developers to drive remediation and validate fixes through re-testing.
+- Conducted mobile application security training sessions with the Learning & Development team.
+
+---
+
+# `07 // IMPACT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/harshshahi99/)
-[![Medium](https://img.shields.io/badge/Medium-050505?style=for-the-badge&logo=medium&logoColor=8A2BE2)](https://medium.com/@harshvikramshahi)
-[![Quora](https://img.shields.io/badge/Quora-050505?style=for-the-badge&logo=quora&logoColor=00FF88)](https://www.quora.com/profile/Harshvikram-Shahi)
-[![YouTube](https://img.shields.io/badge/YouTube-050505?style=for-the-badge&logo=youtube&logoColor=8A2BE2)](https://www.youtube.com/@harshshahi99)
-[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:harshvikramshahi@gmail.com)
+<img src="https://img.shields.io/badge/100%2B-APPLICATION_%26_INFRA_ASSESSMENTS-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/20%2B-CRITICAL_%26_HIGH_RISK_FINDINGS-FF4040?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/95%25-BACKLOG_REDUCTION-8A2BE2?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/100%25-PRE--RELEASE_RESOLUTION-00FF88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/0-DOWNTIME_PRODUCTION_TESTING-FF4040?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# `08 // RECOGNITION`
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=harshshahi99&theme=dark&hide_border=true&bg_color=050505&title_color=8A2BE2&text_color=00FF88&icon_color=00FF88&include_all_commits=false&count_private=false" />
+🏆 **2× Move the Dot Individual — Deloitte — 2026**
+
+> Recognized for leading on-site security assessments for a GCC client and uncovering **20+ critical and high-risk vulnerabilities** in OEM hardware supporting fueling operations while executing production testing with zero downtime.
+
+🏆 **2× Live the Dot Award — Deloitte — 2026**
+
+> Recognized for discovering critical and high-risk vulnerabilities and working with development teams to achieve **100% resolution before release**.
+
+🏆 **1× Applause Award — Deloitte — 2025**
+
+> Recognized for managing multiple pentesting engagements with strong technical expertise, stakeholder management and consistent on-time delivery.
+
+🏅 **State-Level Hackathon — Uttarakhand Technical University — 2022**
+
+</div>
+
+---
+
+# `09 // RESPONSIBLE DISCLOSURE`
+
+<div align="center">
+
+```text
+INTERNET-FACING RESEARCH
+          │
+          ▼
+   DISCOVER / VALIDATE
+          │
+          ▼
+ RESPONSIBLE DISCLOSURE
+          │
+          ▼
+    REMEDIATION
+          │
+          ▼
+      RETEST / FIX
+```
+
+</div>
+
+Research experience includes responsible disclosure involving **automobile platforms, healthcare applications and EV charging infrastructure**, focusing on unauthorized access, privacy exposure and command-execution risks.
+
+---
+
+# `10 // CERTIFICATIONS`
+
+<div align="center">
+
+🛡️ **CRTO — Certified Red Team Operator**  
+<img src="https://img.shields.io/badge/CRTO-CERTIFIED-00FF88?style=for-the-badge&labelColor=050505&color=050505"/>
+
+🎯 **CRTA — Certified Red Team Analyst**  
+<img src="https://img.shields.io/badge/CRTA-CERTIFIED-8A2BE2?style=for-the-badge&labelColor=050505&color=050505"/>
+
+🛡️ **CEH Practical — Certified Ethical Hacker**  
+<img src="https://img.shields.io/badge/CEH_PRACTICAL-CERTIFIED-FF4040?style=for-the-badge&labelColor=050505&color=050505"/>
+
+☁️ **MCRTA — Multi Cloud Red Team Analyst**  
+<img src="https://img.shields.io/badge/MCRTA-CERTIFIED-00FF88?style=for-the-badge&labelColor=050505&color=050505"/>
+
+☁️ **Google Cloud Digital Leader**  
+<img src="https://img.shields.io/badge/GCP_DIGITAL_LEADER-CERTIFIED-8A2BE2?style=for-the-badge&labelColor=050505&color=050505"/>
+
+🧠 **CLLMSP — Certified LLM Security Professional**  
+<img src="https://img.shields.io/badge/CLLMSP-CERTIFIED-FF4040?style=for-the-badge&labelColor=050505&color=050505"/>
+
+</div>
+
+---
+
+# `11 // EDUCATION`
+
+<div align="center">
+
+🎓 **Bachelor of Technology — Computer Science & Engineering**  
+**Uttarakhand Technical University** · **2019–2023** · **8.3 CGPA · Honours**
+
+</div>
+
+---
+
+# `12 // GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=harshshahi99&show_icons=true&hide_border=true&bg_color=050505&title_color=8A2BE2&text_color=00FF88&icon_color=00FF88&include_all_commits=false&count_private=false"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=harshshahi99&theme=dark&hide_border=true&background=050505&ring=8A2BE2&fire=00FF88&currStreakLabel=8A2BE2&sideLabels=00FF88" />
+<img src="https://streak-stats.demolab.com/?user=harshshahi99&theme=dark&hide_border=true&background=050505&ring=8A2BE2&fire=FF4040&currStreakLabel=00FF88&sideLabels=8A2BE2&dates=00FF88"/>
 
 <br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshshahi99&theme=dark&hide_border=true&bg_color=050505&title_color=8A2BE2&text_color=00FF88&layout=compact&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshshahi99&layout=compact&hide_border=true&bg_color=050505&title_color=8A2BE2&text_color=00FF88"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshshahi99&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=7"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# `13 // CONNECT`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshshahi99&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/harshshahi99/)
+[![Medium](https://img.shields.io/badge/MEDIUM-050505?style=for-the-badge&logo=medium&logoColor=8A2BE2)](https://medium.com/@harshvikramshahi)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=FF4040)](https://www.youtube.com/@harshshahi99)
+[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:harshvikramshahi@gmail.com)
 
-</div>
+<br>
 
----
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=harshshahi99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=harshshahi99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   RECON  →  ANALYZE  →  ATTACK  →  VALIDATE  →  SECURE  ║
-║                                                          ║
-║              KEEP LEARNING. KEEP HUNTING.               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   RECON  →  ANALYZE  →  ATTACK  →  VALIDATE  →  SECURE              ║
+║                                                                      ║
+║                  [ SESSION STATUS : ACTIVE ]                        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-### `> session active ...`
+`root@harsh:~$ exit`
 
 </div>
 
-<!-- Customized for Harsh Shahi | Offensive Security | AI Security -->
+<!-- HARSH SHAHI // OFFENSIVE SECURITY // AI SECURITY // RED TEAM -->
