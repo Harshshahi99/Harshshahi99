@@ -136,37 +136,75 @@ I also participate in **responsible disclosure**, researching internet-facing pl
 
 <div align="center">
 
-```text
-                         ┌────────────────────────┐
-                         │    AI ORCHESTRATOR     │
-                         │      MCP / TOOLS       │
-                         └───────────┬────────────┘
-                                     │
-              ┌──────────────────────┼──────────────────────┐
-              ▼                      ▼                      ▼
-        ┌───────────┐          ┌───────────┐          ┌───────────┐
-        │   RECON   │          │ DISCOVERY │          │  ANALYSIS │
-        │   AGENT   │          │   AGENT   │          │   AGENT   │
-        └─────┬─────┘          └─────┬─────┘          └─────┬─────┘
-              └──────────────────────┼──────────────────────┘
-                                     ▼
-                            ┌──────────────────┐
-                            │  ATTACK-PATH     │
-                            │     ANALYSIS     │
-                            └────────┬─────────┘
-                                     ▼
-                            ┌──────────────────┐
-                            │   VALIDATION     │
-                            │      AGENT       │
-                            └────────┬─────────┘
-                                     ▼
-                            ┌──────────────────┐
-                            │ REPORT → FIX →   │
-                            │      VERIFY      │
-                            └──────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,35:071A2B,70:10105C,100:050505&text=AI%20%E2%9C%95%20OFFENSIVE%20SECURITY&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=MULTI--AGENT%20PENTESTING%20%2F%20SECURITY%20AUTOMATION&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
+
+```text id="n3qj3b"
+                         ╔══════════════════════════╗
+                         ║     AI ORCHESTRATOR      ║
+                         ║    MCP • TOOLS • LLM     ║
+                         ╚════════════╤═════════════╝
+                                      │
+                    ┌─────────────────┼─────────────────┐
+                    │                 │                 │
+                    ▼                 ▼                 ▼
+             ╭────────────╮    ╭────────────╮    ╭────────────╮
+             │  RECON AI  │    │ DISCOVERY AI│   │ ANALYSIS AI │
+             │            │    │             │   │             │
+             │ OSINT      │    │ Endpoints   │   │ Vulns       │
+             │ Assets     │    │ APIs        │   │ Context     │
+             │ Attack Map │    │ Services    │   │ Severity    │
+             ╰─────┬──────╯    ╰──────┬──────╯   ╰──────┬──────╯
+                   │                  │                 │
+                   └──────────────────┼─────────────────┘
+                                      │
+                                      ▼
+                         ╔══════════════════════════╗
+                         ║      ATTACK PATH AI      ║
+                         ║                          ║
+                         ║  CHAIN • PRIORITIZE      ║
+                         ║  REASON • SIMULATE       ║
+                         ╚════════════╤═════════════╝
+                                      │
+                                      ▼
+                         ╭──────────────────────────╮
+                         │    VALIDATION AGENT      │
+                         │                          │
+                         │   TEST → VERIFY → PoC    │
+                         ╰────────────┬─────────────╯
+                                      │
+                                      ▼
+                    ┌─────────────────┴─────────────────┐
+                    │                                   │
+                    ▼                                   ▼
+             ╔══════════════╗                    ╔══════════════╗
+             ║   REPORT AI  ║ ────────▶ FIX ───▶ ║  VERIFY AI   ║
+             ║  Evidence    ║                    ║    RETEST     ║
+             ╚══════════════╝                    ╚══════════════╝
+
+
+        ─────────────────────────────────────────────────────────
+
+          RECON → DISCOVER → ANALYZE → CHAIN → VALIDATE
+                         ↓
+                  REPORT → REMEDIATE → RETEST
+
+        ─────────────────────────────────────────────────────────
 ```
 
+### `// CURRENT EXPLORATION`
+
+Building and experimenting with **AI-assisted offensive security workflows** that combine LLM reasoning, MCP-based tooling, and specialized security agents.
+
+**Focus Areas**
+
+`AI PENTESTING` · `MULTI-AGENT SYSTEMS` · `MCP` · `AUTONOMOUS RECON`
+`ATTACK-PATH ANALYSIS` · `LLM SECURITY` · `VULNERABILITY VALIDATION`
+`SECURITY AUTOMATION` · `AI-ASSISTED RED TEAMING`
+
+> **`HUMAN EXPERTISE × AI REASONING × OFFENSIVE SECURITY`**
+
 </div>
+
 
 Currently exploring **AI-led penetration testing, AI integration with MCP and multi-agent security automation** to automate repetitive stages of the penetration-testing lifecycle.
 
@@ -329,28 +367,112 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 # `06 // PROFESSIONAL TIMELINE`
 
-```text
-2023 ───────────────────────────────► 2025 ───────────────► 2026 ─────────►
+<div align="center">
 
-     SENIOR SECURITY ANALYST                     CYBER SECURITY CONSULTANT
-              │                                           │
-              ├─ Web / API / Infrastructure                ├─ Web / Mobile / API
-              ├─ OWASP / ASVS / CERT-In                   ├─ Cloud / Access Control
-              ├─ Vulnerability Management                  ├─ CCTV / Thick Client
-              ├─ Remediation / Re-testing                  ├─ LLM Applications
-              └─ 95% Backlog Reduction                     ├─ Hardware / Devices
-                                                           ├─ Red Team / Phishing
-                                                           ├─ OT Attack Simulation
-                                                           └─ Network Segmentation
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:050505,35:071A2B,70:10105C,100:050505&text=PROFESSIONAL%20TIMELINE&fontColor=00E5FF&fontSize=38&fontAlignY=42&desc=DELOITTE%20%2F%20OFFENSIVE%20SECURITY%20%2F%20ASM&descAlignY=65&descSize=14&descColor=7C4DFF&animation=twinkling" width="100%"/>
+
+<br>
+
+```text id="v4l2yq"
+                         ┌─────────────────────────────┐
+                         │           2023              │
+                         │       AUG 2023 — JUN 2025   │
+                         └──────────────┬──────────────┘
+                                        │
+                                        ▼
+                         ╔═════════════════════════════╗
+                         ║      SENIOR SECURITY         ║
+                         ║          ANALYST             ║
+                         ║        DELOITTE // ASM       ║
+                         ╚══════════════╤══════════════╝
+                                        │
+              ┌─────────────────────────┼─────────────────────────┐
+              ▼                         ▼                         ▼
+        WEB / API              INFRASTRUCTURE             APPSEC
+              │                         │                         │
+              ├─ OWASP                 ├─ Security Testing       ├─ ASVS
+              ├─ API Security          ├─ Vulnerability Mgmt     ├─ Remediation
+              └─ Pentesting            └─ Re-testing             └─ CERT-In
+                                        │
+                                        ▼
+                              ┌─────────────────────┐
+                              │  95% BACKLOG        │
+                              │     REDUCTION       │
+                              └──────────┬──────────┘
+                                         │
+                                         │  EVOLUTION
+                                         ▼
+══════════════════════════════════════════════════════════════════════════════
+
+                         ┌─────────────────────────────┐
+                         │           2026              │
+                         │        APR 2026 — PRESENT   │
+                         └──────────────┬──────────────┘
+                                        │
+                                        ▼
+                         ╔═════════════════════════════╗
+                         ║       CYBER SECURITY        ║
+                         ║          CONSULTANT          ║
+                         ║        DELOITTE // ASM       ║
+                         ╚══════════════╤══════════════╝
+                                        │
+           ┌────────────────────────────┼────────────────────────────┐
+           ▼                            ▼                            ▼
+     APPLICATIONS                   CLOUD                      RED TEAM
+           │                            │                            │
+     Web / Mobile / API         Access Control              Phishing Simulation
+     Thick Client               Cloud Security              Adversary Simulation
+     LLM Applications           Infrastructure              Attack Paths
+           │                            │                            │
+           └────────────────────────────┼────────────────────────────┘
+                                        │
+              ┌─────────────────────────┼─────────────────────────┐
+              ▼                         ▼                         ▼
+           DEVICES                    OT / ICS                 NETWORK
+              │                         │                         │
+        CCTV / Hardware          Attack Simulation        Segmentation Testing
+        Device Security          Production Testing      Boundary Validation
+                                        │
+                                        ▼
+                         ┌─────────────────────────────┐
+                         │       AI × SECURITY         │
+                         │                             │
+                         │ Multi-Agent Pentesting      │
+                         │ MCP × LLM × Automation      │
+                         └─────────────────────────────┘
 ```
+
+<br>
+
+### `CAREER EVOLUTION`
+
+```text
+2023                    2025                    2026
+ │                       │                       │
+ ▼                       ▼                       ▼
+APPSEC  ────────────▶  OFFENSIVE SECURITY  ──▶  AI-ASSISTED PENTESTING
+ │                       │                       │
+WEB / API                CLOUD                   MULTI-AGENT
+INFRA                    RED TEAM                AUTOMATION
+OWASP                    DEVICES                 LLM SECURITY
+```
+
+</div>
 
 ### `DELOITTE // CYBER SECURITY CONSULTANT — ASM`
 
 **Apr 2026 – Present**
 
+Offensive security assessments across **Web, Mobile, API, Cloud, Access Control, Thick Client, Devices, LLM Applications, Red Teaming, Phishing Simulation, OT Attack Simulation, and Network Segmentation**.
+
 ### `DELOITTE // SENIOR SECURITY ANALYST — ASM`
 
 **Aug 2023 – Jun 2025**
+
+Application and infrastructure security assessments covering **Web/API Pentesting, OWASP, ASVS, CERT-In, vulnerability management, remediation, retesting, and security backlog reduction**.
+
+> `APPLICATION SECURITY → OFFENSIVE SECURITY → RED TEAMING → AI-ASSISTED SECURITY`
+
 
 ---
 
@@ -373,9 +495,13 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+
+<br><br>
+
 🏆 **2× Move the Dot Individual — Deloitte — 2026**
 
-> Recognized for leading on-site security assessments for a GCC client and uncovering **20+ critical and high-risk vulnerabilities** in OEM hardware supporting fueling operations while executing production testing with zero downtime.
+> Recognized for leading on-site security assessments for a GCC client and uncovering **20+ critical and high-risk vulnerabilities** in OEM hardware supporting fueling operations while executing production testing with **zero downtime**.
 
 🏆 **2× Live the Dot Award — Deloitte — 2026**
 
@@ -383,11 +509,32 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 🏆 **1× Applause Award — Deloitte — 2025**
 
-> Recognized for managing multiple pentesting engagements with strong technical expertise, stakeholder management and consistent on-time delivery.
+> Recognized for managing multiple penetration-testing engagements with strong technical expertise, stakeholder management, and consistent **on-time delivery**.
 
 🏅 **State-Level Hackathon — Uttarakhand Technical University — 2022**
 
+<br>
+
+```text id="q2g1d9"
+                         SECURITY IMPACT
+                               │
+               ┌───────────────┼───────────────┐
+               ▼               ▼               ▼
+            DISCOVER        DELIVER          LEAD
+               │               │               │
+               ▼               ▼               ▼
+         VULNERABILITIES    PROJECTS       ASSESSMENTS
+               │               │               │
+               └───────────────┼───────────────┘
+                               ▼
+                       ┌───────────────┐
+                       │   RECOGNIZED  │
+                       │   FOR IMPACT  │
+                       └───────────────┘
+```
+
 </div>
+
 
 ---
 
@@ -482,10 +629,17 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <div align="center">
 
-🎓 **Bachelor of Technology — Computer Science & Engineering**  
-**Uttarakhand Technical University** · **2019–2023** · **8.3 CGPA · Honours**
+🎓 **Bachelor of Technology — Computer Science & Engineering**
+**Uttarakhand Technical University** · **2019–2023**
+
+<img src="https://img.shields.io/badge/8.3_CGPA-HONOURS-00E5FF?style=for-the-badge&labelColor=050505&color=050505"/>
+
+<br><br>
+
+**Computer Science** · **Cybersecurity** · **Networking** · **Software Engineering**
 
 </div>
+
 
 ---
 
