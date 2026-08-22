@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-# `01 // ABOUT`
+# `ABOUT`
 
 **Offensive Security Engineer | Cyber Security Consultant | Security Researcher**
 
@@ -132,7 +132,7 @@ I also participate in **responsible disclosure**, researching internet-facing pl
 
 ---
 
-# `03 // AI × OFFENSIVE SECURITY`
+# `AI × OFFENSIVE SECURITY`
 
 <div align="center">
 
@@ -212,7 +212,7 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 ---
 
-# `04 // TOOLKIT`
+# `TOOLKIT`
 
 <div align="center">
 
@@ -346,7 +346,7 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 ---
 
-# `05 // LANGUAGES + AUTOMATION`
+# `LANGUAGES + AUTOMATION`
 
 <div align="center">
 
@@ -365,7 +365,7 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 ---
 
-# `06 // PROFESSIONAL TIMELINE`
+# `PROFESSIONAL TIMELINE`
 
 <div align="center">
 
@@ -373,76 +373,89 @@ Currently exploring **AI-led penetration testing, AI integration with MCP and mu
 
 <br>
 
-```text id="v4l2yq"
-                         ┌─────────────────────────────┐
-                         │           2023              │
-                         │       AUG 2023 — JUN 2025   │
-                         └──────────────┬──────────────┘
-                                        │
-                                        ▼
-                         ╔═════════════════════════════╗
-                         ║      SENIOR SECURITY         ║
-                         ║          ANALYST             ║
-                         ║        DELOITTE // ASM       ║
-                         ╚══════════════╤══════════════╝
-                                        │
-              ┌─────────────────────────┼─────────────────────────┐
-              ▼                         ▼                         ▼
-        WEB / API              INFRASTRUCTURE             APPSEC
-              │                         │                         │
-              ├─ OWASP                 ├─ Security Testing       ├─ ASVS
-              ├─ API Security          ├─ Vulnerability Mgmt     ├─ Remediation
-              └─ Pentesting            └─ Re-testing             └─ CERT-In
-                                        │
-                                        ▼
-                              ┌─────────────────────┐
-                              │  95% BACKLOG        │
-                              │     REDUCTION       │
-                              └──────────┬──────────┘
-                                         │
-                                         │  EVOLUTION
-                                         ▼
-══════════════════════════════════════════════════════════════════════════════
+<table>
+<tr>
 
-                         ┌─────────────────────────────┐
-                         │           2026              │
-                         │        APR 2026 — PRESENT   │
-                         └──────────────┬──────────────┘
-                                        │
-                                        ▼
-                         ╔═════════════════════════════╗
-                         ║       CYBER SECURITY        ║
-                         ║          CONSULTANT          ║
-                         ║        DELOITTE // ASM       ║
-                         ╚══════════════╤══════════════╝
-                                        │
-           ┌────────────────────────────┼────────────────────────────┐
-           ▼                            ▼                            ▼
-     APPLICATIONS                   CLOUD                      RED TEAM
-           │                            │                            │
-     Web / Mobile / API         Access Control              Phishing Simulation
-     Thick Client               Cloud Security              Adversary Simulation
-     LLM Applications           Infrastructure              Attack Paths
-           │                            │                            │
-           └────────────────────────────┼────────────────────────────┘
-                                        │
-              ┌─────────────────────────┼─────────────────────────┐
-              ▼                         ▼                         ▼
-           DEVICES                    OT / ICS                 NETWORK
-              │                         │                         │
-        CCTV / Hardware          Attack Simulation        Segmentation Testing
-        Device Security          Production Testing      Boundary Validation
-                                        │
-                                        ▼
-                         ┌─────────────────────────────┐
-                         │       AI × SECURITY         │
-                         │                             │
-                         │ Multi-Agent Pentesting      │
-                         │ MCP × LLM × Automation      │
-                         └─────────────────────────────┘
-```
+<td width="48%" valign="top">
+
+<h3>2023 → 2025</h3>
+
+<h2>Senior Security Analyst</h2>
+
+<strong>DELOITTE // ASM</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AUG_2023-050505?style=for-the-badge&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/JUN_2025-050505?style=for-the-badge&logoColor=7C4DFF"/>
+
+<br><br>
+
+<strong>APPLICATION SECURITY</strong>
+
+<br><br>
+
+• Web & API Pentesting  
+• Infrastructure Security Testing  
+• OWASP / ASVS / CERT-In  
+• Vulnerability Management  
+• Remediation & Re-testing  
+• Security Backlog Reduction  
 
 <br>
+
+<img src="https://img.shields.io/badge/95%25-BACKLOG_REDUCTION-00E5FF?style=for-the-badge&labelColor=050505"/>
+
+</td>
+
+<td width="4%" align="center">
+
+<h1>→</h1>
+
+</td>
+
+<td width="48%" valign="top">
+
+<h3>2026 → PRESENT</h3>
+
+<h2>Cyber Security Consultant</h2>
+
+<strong>DELOITTE // ASM</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/APR_2026-PRESENT-050505?style=for-the-badge&logoColor=00E5FF"/>
+
+<br><br>
+
+<strong>OFFENSIVE SECURITY</strong>
+
+<br><br>
+
+• Web / Mobile / API Security  
+• Cloud & Access Control  
+• CCTV / Thick Client / Devices  
+• LLM Application Security  
+• Red Team / Phishing Simulation  
+• OT / ICS Attack Simulation  
+• Network Segmentation Testing  
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EVOLUTION-APPLICATION_SECURITY_%E2%86%92_OFFENSIVE_SECURITY_%E2%86%92_RED_TEAMING-00E5FF?style=for-the-badge&labelColor=050505"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NEXT_FRONTIER-AI_%C3%97_MCP_%C3%97_MULTI--AGENT_PENTESTING-7C4DFF?style=for-the-badge&labelColor=050505"/>
+
+</div>
 
 ### `CAREER EVOLUTION`
 
@@ -476,7 +489,7 @@ Application and infrastructure security assessments covering **Web/API Pentestin
 
 ---
 
-# `07 // IMPACT`
+# `IMPACT`
 
 <div align="center">
 
@@ -491,7 +504,7 @@ Application and infrastructure security assessments covering **Web/API Pentestin
 
 ---
 
-# `08 // RECOGNITION`
+# `RECOGNITION`
 
 <div align="center">
 
@@ -513,32 +526,13 @@ Application and infrastructure security assessments covering **Web/API Pentestin
 
 🏅 **State-Level Hackathon — Uttarakhand Technical University — 2022**
 
-<br>
-
-```text id="q2g1d9"
-                         SECURITY IMPACT
-                               │
-               ┌───────────────┼───────────────┐
-               ▼               ▼               ▼
-            DISCOVER        DELIVER          LEAD
-               │               │               │
-               ▼               ▼               ▼
-         VULNERABILITIES    PROJECTS       ASSESSMENTS
-               │               │               │
-               └───────────────┼───────────────┘
-                               ▼
-                       ┌───────────────┐
-                       │   RECOGNIZED  │
-                       │   FOR IMPACT  │
-                       └───────────────┘
-```
 
 </div>
 
 
 ---
 
-# `09 // RESPONSIBLE DISCLOSURE`
+# `RESPONSIBLE DISCLOSURE`
 
 
 <div align="center">
@@ -572,7 +566,7 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 ---
 
-# `10 // CERTIFICATIONS`
+# `CERTIFICATIONS`
 
 <div align="left">
 
@@ -625,7 +619,7 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 ---
 
-# `11 // EDUCATION`
+# `EDUCATION`
 
 <div align="center">
 
@@ -636,14 +630,14 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 <br><br>
 
-**Computer Science** · **Cybersecurity** · **Networking** · **Software Engineering**
+**Computer Science** · **Cybersecurity**  **AI/ML** · **Networking** · **Software Engineering**
 
 </div>
 
 
 ---
 
-# `12 // GITHUB`
+# `GITHUB`
 
 <div align="center">
 
@@ -665,29 +659,44 @@ Independently researching **internet-facing applications, APIs, cloud services a
 
 ---
 
-# `13 // CONNECT`
+# `CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00FF88)](https://www.linkedin.com/in/harshshahi99/)
-[![Medium](https://img.shields.io/badge/MEDIUM-050505?style=for-the-badge&logo=medium&logoColor=8A2BE2)](https://medium.com/@harshvikramshahi)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=FF4040)](https://www.youtube.com/@harshshahi99)
-[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00FF88)](mailto:harshvikramshahi@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,35:071A2B,70:10105C,100:050505&text=ESTABLISH%20CONNECTION&fontColor=00E5FF&fontSize=34&fontAlignY=42&desc=SECURE%20CHANNEL%20%2F%20NETWORK%20ONLINE&descAlignY=65&descSize=13&descColor=7C4DFF&animation=twinkling" width="100%"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/harshshahi99/">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@harshvikramshahi">
+<img src="https://img.shields.io/badge/MEDIUM-050505?style=for-the-badge&logo=medium&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@harshshahi99">
+<img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=FF4040"/>
+</a>
+&nbsp;
+<a href="mailto:harshvikramshahi@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=00E5FF&background=050505&center=true&vCenter=true&width=750&lines=%5B+root%40harsh+%5D%24+connect;%5B%2B%5D+Channel+secured...;%5B%2B%5D+Ready+to+collaborate...;%5B%2B%5D+Let's+build+%26+break+things+responsibly.;%5B%2B%5D+Connection+established+%E2%9C%93"/>
+
+<br><br>
+
+**OFFENSIVE SECURITY** · **SECURITY RESEARCH** · **COLLABORATION** · **IMPACT**
+
+</div>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=harshshahi99&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
 
-<br><br>
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   RECON  →  ANALYZE  →  ATTACK  →  VALIDATE  →  SECURE              ║
-║                                                                      ║
-║                  [ SESSION STATUS : ACTIVE ]                        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 `root@harsh:~$ exit`
